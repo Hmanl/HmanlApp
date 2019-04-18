@@ -1,0 +1,55 @@
+
+triangle.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb_dot01
+  rotate: false
+  xy: 1, 23
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+bomb_dot02
+  rotate: false
+  xy: 403, 199
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+bomb_line01
+  rotate: false
+  xy: 1, 47
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+bomb_line_B
+  rotate: false
+  xy: 403, 223
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+die_dot02
+  rotate: false
+  xy: 1, 1
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+triangle_B
+  rotate: false
+  xy: 1, 62
+  size: 200, 175
+  orig: 201, 176
+  offset: 1, 0
+  index: -1
+triangle_R
+  rotate: false
+  xy: 202, 62
+  size: 200, 175
+  orig: 201, 176
+  offset: 1, 0
+  index: -1

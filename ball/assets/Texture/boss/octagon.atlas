@@ -1,0 +1,41 @@
+
+octagon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+octagon_B
+  rotate: false
+  xy: 0, 39
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+octagon_Bx
+  rotate: false
+  xy: 0, 24
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+octagon_R
+  rotate: false
+  xy: 300, 39
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+octagon_Rx
+  rotate: false
+  xy: 600, 324
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+octagon_WD
+  rotate: false
+  xy: 0, 0
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

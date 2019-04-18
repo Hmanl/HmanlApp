@@ -1,0 +1,76 @@
+
+boss.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb_circle03
+  rotate: false
+  xy: 183, 337
+  size: 154, 172
+  orig: 154, 172
+  offset: 0, 0
+  index: -1
+bomb_circle04
+  rotate: false
+  xy: 1, 1
+  size: 154, 172
+  orig: 154, 172
+  offset: 0, 0
+  index: -1
+boss_B_02
+  rotate: false
+  xy: 183, 237
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+boss_B_03
+  rotate: false
+  xy: 404, 320
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+boss_B_head
+  rotate: false
+  xy: 1, 342
+  size: 181, 167
+  orig: 181, 167
+  offset: 0, 0
+  index: -1
+boss_R_02
+  rotate: false
+  xy: 404, 410
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+boss_R_03
+  rotate: false
+  xy: 183, 147
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+boss_R_head
+  rotate: false
+  xy: 1, 174
+  size: 181, 167
+  orig: 181, 167
+  offset: 0, 0
+  index: -1
+line_B
+  rotate: false
+  xy: 338, 325
+  size: 32, 184
+  orig: 32, 184
+  offset: 0, 0
+  index: -1
+line_R
+  rotate: false
+  xy: 371, 325
+  size: 32, 184
+  orig: 32, 184
+  offset: 0, 0
+  index: -1

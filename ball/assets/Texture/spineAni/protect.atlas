@@ -1,0 +1,20 @@
+
+protect.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+protect_circle01
+  rotate: false
+  xy: 1, 42
+  size: 173, 176
+  orig: 173, 176
+  offset: 0, 0
+  index: -1
+protect_star
+  rotate: false
+  xy: 1, 1
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1

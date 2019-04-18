@@ -1,0 +1,27 @@
+
+death.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb02_line
+  rotate: false
+  xy: 1, 1
+  size: 66, 14
+  orig: 68, 14
+  offset: 1, 0
+  index: -1
+bomb_dot02
+  rotate: false
+  xy: 185, 176
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+death_w
+  rotate: false
+  xy: 1, 16
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1

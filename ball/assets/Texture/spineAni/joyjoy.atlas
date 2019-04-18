@@ -1,0 +1,97 @@
+
+joyjoy.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb02_circle02
+  rotate: true
+  xy: 580, 31
+  size: 101, 36
+  orig: 101, 36
+  offset: 0, 0
+  index: -1
+bomb02_line
+  rotate: false
+  xy: 1, 11
+  size: 66, 14
+  orig: 68, 14
+  offset: 1, 0
+  index: -1
+bomb_circle01
+  rotate: false
+  xy: 834, 148
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+bomb_circle03
+  rotate: true
+  xy: 620, 134
+  size: 154, 172
+  orig: 154, 172
+  offset: 0, 0
+  index: -1
+bomb_dot02
+  rotate: false
+  xy: 200, 62
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+death_buff
+  rotate: true
+  xy: 418, 1
+  size: 131, 161
+  orig: 131, 161
+  offset: 0, 0
+  index: -1
+death_w
+  rotate: false
+  xy: 834, 319
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+die_dot02
+  rotate: false
+  xy: 793, 267
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+line
+  rotate: true
+  xy: 1, 26
+  size: 59, 198
+  orig: 59, 198
+  offset: 0, 0
+  index: -1
+line_blue
+  rotate: false
+  xy: 418, 133
+  size: 201, 369
+  orig: 201, 370
+  offset: 0, 0
+  index: -1
+pass
+  rotate: false
+  xy: 1, 86
+  size: 416, 416
+  orig: 416, 416
+  offset: 0, 0
+  index: -1
+pass01
+  rotate: false
+  xy: 620, 289
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1
+pass02
+  rotate: false
+  xy: 617, 38
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
