@@ -1,0 +1,41 @@
+
+combo_ef.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die_light
+  rotate: true
+  xy: 1, 164
+  size: 149, 415
+  orig: 152, 418
+  offset: 0, 3
+  index: -1
+line
+  rotate: true
+  xy: 1, 314
+  size: 109, 828
+  orig: 109, 828
+  offset: 0, 0
+  index: -1
+love001
+  rotate: false
+  xy: 830, 373
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+love_white
+  rotate: false
+  xy: 417, 177
+  size: 147, 136
+  orig: 147, 136
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 1
+  size: 164, 162
+  orig: 164, 162
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+# lxsdk 构建模板替换插件
+---
+### 乐讯游戏
+在**index.html**增加对sdk的引用, 如下：
+
+    <script src="http://h5.lexun.com/api_v2/lexun/lxgame-sdk.js"></script>
+
+### 微信小程序
+在主域的**game.js**增加对sdk的引用, 如下：
+
+    require('libs/lxgame-sdk.js');
+
+在子域的**sub.js**增加对sdk的引用, 如下：
+
+    require('libs/lxgame-sdk.js');
+    
+### FBInstant
+在**index.html**增加对sdk的引用, 替换mian.js中FBInstant部分方法, 如下：
+	
+	[index.html]
+	<script src="libs/play68-sdk.js"></script>
+	<script src="libs/lxgame-sdk.js"></script>
+	<script>
+		PLAY68_SDK.debug = lx.config.mode == "development";
+		PLAY68_SDK.appId = 'appid';
+	</script>
+
+	[main.js]
+    FBInstant.setLoadingProgress(progress);
+	---change--->
+	PLAY68_SDK.setLoadingProgress(progress);
+
+	FBInstant.startGameAsync().then(function () {
+		...
+    }).catch(fuction(){
+		...
+	});
+	---change--->
+	PLAY68_SDK.start(function () {
+		...
+    });
+
+	FBInstant.initializeAsync().then(function () {
+		...
+	});
+	---change--->
+	PLAY68_SDK.init(function () {
+		...
+	});
+
+### 熊猫TV
+在**index.html**增加对sdk的引用, 如下：
+
+    <script src="http://h5.lexun.com/api_v2/panda/lxgame-sdk.js"></script>
+
+### 其他说明
+如果平台为h5端且需要调试, 可以在**index.html**页面的最上方盈利vconsole.min.js, 如下：
+
+	<script src="libs/vconsole.min.js"></script>
+	<script>
+		var vConsole = new VConsole();
+	</script>

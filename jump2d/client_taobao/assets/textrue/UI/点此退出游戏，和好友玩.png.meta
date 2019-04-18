@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f974f704-6b77-420e-938b-0d75343cb216",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "点此退出游戏，和好友玩": {
+      "ver": "1.0.3",
+      "uuid": "eacbd473-24a2-4893-a3ca-b5c81544aceb",
+      "rawTextureUuid": "f974f704-6b77-420e-938b-0d75343cb216",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 392,
+      "height": 35,
+      "rawWidth": 392,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

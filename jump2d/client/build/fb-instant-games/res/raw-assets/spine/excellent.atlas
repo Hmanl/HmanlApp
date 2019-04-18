@@ -1,0 +1,160 @@
+
+excellent.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box08_sidai01
+  rotate: false
+  xy: 459, 480
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+box08_sidai02
+  rotate: false
+  xy: 162, 56
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+box08_sidai03
+  rotate: false
+  xy: 372, 40
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+box08_sidai04
+  rotate: false
+  xy: 250, 202
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+box08_sidai05
+  rotate: false
+  xy: 250, 229
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+box08_sidai06
+  rotate: false
+  xy: 387, 432
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+cool
+  rotate: true
+  xy: 272, 8
+  size: 248, 53
+  orig: 248, 53
+  offset: 0, 0
+  index: -1
+cool_01
+  rotate: false
+  xy: 1, 459
+  size: 411, 43
+  orig: 411, 43
+  offset: 0, 0
+  index: -1
+excellent
+  rotate: false
+  xy: 1, 1
+  size: 248, 54
+  orig: 248, 54
+  offset: 0, 0
+  index: -1
+excellent_01
+  rotate: false
+  xy: 1, 257
+  size: 311, 43
+  orig: 311, 43
+  offset: 0, 0
+  index: -1
+good
+  rotate: true
+  xy: 326, 105
+  size: 248, 54
+  orig: 248, 54
+  offset: 0, 0
+  index: -1
+good_01
+  rotate: false
+  xy: 1, 354
+  size: 383, 51
+  orig: 383, 51
+  offset: 0, 0
+  index: -1
+great
+  rotate: false
+  xy: 1, 200
+  size: 248, 56
+  orig: 248, 56
+  offset: 0, 0
+  index: -1
+great_01
+  rotate: false
+  xy: 326, 61
+  size: 171, 43
+  orig: 171, 43
+  offset: 0, 0
+  index: -1
+perfect
+  rotate: true
+  xy: 381, 105
+  size: 248, 54
+  orig: 248, 54
+  offset: 0, 0
+  index: -1
+perfect_01
+  rotate: false
+  xy: 1, 301
+  size: 308, 52
+  orig: 308, 52
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 406
+  size: 385, 52
+  orig: 385, 52
+  offset: 0, 0
+  index: -1
+star_light01
+  rotate: false
+  xy: 413, 460
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+star_light02
+  rotate: false
+  xy: 326, 18
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+star_light03
+  rotate: false
+  xy: 310, 339
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+xinxin
+  rotate: true
+  xy: 162, 74
+  size: 125, 109
+  orig: 125, 109
+  offset: 0, 0
+  index: -1
+xinxin_light
+  rotate: false
+  xy: 1, 56
+  size: 160, 143
+  orig: 167, 151
+  offset: 2, 6
+  index: -1

@@ -1,0 +1,13 @@
+
+love.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red_water01
+  rotate: false
+  xy: 1, 1
+  size: 417, 119
+  orig: 417, 119
+  offset: 0, 0
+  index: -1

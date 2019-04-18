@@ -1,0 +1,19 @@
+{
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame",
+  "debug": false,
+  "includeEruda": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "link",
+  "useDebugKeystore": true,
+  "vsVersion": "auto"
+}

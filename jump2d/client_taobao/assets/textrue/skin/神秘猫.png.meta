@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b7ee3fd4-1f73-4226-a428-fa4f93e9ac5b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "神秘猫": {
+      "ver": "1.0.3",
+      "uuid": "5c6d5863-7dbd-4216-aaa0-0d7d34a4eaf9",
+      "rawTextureUuid": "b7ee3fd4-1f73-4226-a428-fa4f93e9ac5b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 174,
+      "rawWidth": 88,
+      "rawHeight": 174,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

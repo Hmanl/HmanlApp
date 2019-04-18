@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bik",
+    "texture": "ea9d1695-fab2-44a9-99d9-27aba592c344",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      571,
+      318
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      571,
+      318
+    ]
+  }
+}

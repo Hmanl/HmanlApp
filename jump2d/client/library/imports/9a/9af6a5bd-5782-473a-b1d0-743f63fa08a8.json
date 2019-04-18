@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "retuen",
+    "texture": "861e012a-3503-4f8e-846c-afbcdb675bc8",
+    "atlas": "",
+    "rect": [
+      10,
+      3,
+      50,
+      72
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      71,
+      78
+    ]
+  }
+}

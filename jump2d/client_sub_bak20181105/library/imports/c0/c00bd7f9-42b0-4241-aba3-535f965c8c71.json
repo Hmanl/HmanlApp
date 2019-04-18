@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "排行粉条",
+    "texture": "b05bb891-a2b5-452c-b816-4960c027a723",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      620,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      620,
+      91
+    ]
+  }
+}

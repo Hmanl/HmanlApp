@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aimShare",
+    "texture": "bfaf84e2-a220-4e33-b22b-18102aaaa29b",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      691,
+      1048
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      691,
+      1049
+    ]
+  }
+}

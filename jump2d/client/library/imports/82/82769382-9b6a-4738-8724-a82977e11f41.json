@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Cupid",
+    "texture": "97fb928f-7624-4850-abfb-73e04e58e010",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      502,
+      230
+    ],
+    "offset": [
+      -4,
+      12
+    ],
+    "originalSize": [
+      512,
+      256
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "combo_ef",
+    "texture": "0d376ec3-f746-4135-92bd-32b6f6966c5b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      881,
+      422
+    ],
+    "offset": [
+      -70.5,
+      44
+    ],
+    "originalSize": [
+      1024,
+      512
+    ]
+  }
+}

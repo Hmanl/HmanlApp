@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "492103ea-c0d5-469d-a815-aee181ea65b4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "复活道具": {
+      "ver": "1.0.3",
+      "uuid": "a8f1c3fe-71ab-4f9f-87dc-c53589be896b",
+      "rawTextureUuid": "492103ea-c0d5-469d-a815-aee181ea65b4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 516,
+      "height": 117,
+      "rawWidth": 516,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,90 @@
+
+box_03.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box001
+  rotate: false
+  xy: 1, 1
+  size: 296, 257
+  orig: 296, 257
+  offset: 0, 0
+  index: -1
+box002
+  rotate: false
+  xy: 374, 729
+  size: 296, 256
+  orig: 296, 256
+  offset: 0, 0
+  index: -1
+box003
+  rotate: false
+  xy: 671, 728
+  size: 296, 257
+  orig: 296, 257
+  offset: 0, 0
+  index: -1
+box004
+  rotate: false
+  xy: 1, 517
+  size: 297, 257
+  orig: 297, 257
+  offset: 0, 0
+  index: -1
+box005
+  rotate: false
+  xy: 1, 259
+  size: 297, 257
+  orig: 297, 257
+  offset: 0, 0
+  index: -1
+box006
+  rotate: false
+  xy: 662, 525
+  size: 190, 202
+  orig: 190, 202
+  offset: 0, 0
+  index: -1
+box007
+  rotate: false
+  xy: 299, 304
+  size: 195, 208
+  orig: 195, 208
+  offset: 0, 0
+  index: -1
+box008
+  rotate: false
+  xy: 299, 513
+  size: 201, 215
+  orig: 201, 215
+  offset: 0, 0
+  index: -1
+box02
+  rotate: true
+  xy: 501, 506
+  size: 222, 160
+  orig: 222, 160
+  offset: 0, 0
+  index: -1
+box02_shader
+  rotate: true
+  xy: 495, 282
+  size: 223, 149
+  orig: 223, 149
+  offset: 0, 0
+  index: -1
+shader
+  rotate: false
+  xy: 1, 775
+  size: 372, 210
+  orig: 386, 216
+  offset: 0, 0
+  index: -1
+shader_1
+  rotate: true
+  xy: 853, 537
+  size: 190, 114
+  orig: 190, 114
+  offset: 0, 0
+  index: -1

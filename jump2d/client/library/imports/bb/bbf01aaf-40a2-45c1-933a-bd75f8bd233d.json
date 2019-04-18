@@ -1,0 +1,314 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "knock",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "u5RjLToUvZBExK44qOK/orPKbBM",
+      "spine": "3.6.50",
+      "width": 0,
+      "height": 0,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "circle1",
+        "parent": "root",
+        "scaleX": 0.979,
+        "scaleY": 0.979
+      },
+      {
+        "name": "circle02",
+        "parent": "root",
+        "scaleX": 0.979,
+        "scaleY": 0.979
+      },
+      {
+        "name": "finger",
+        "parent": "root",
+        "scaleX": 1.2,
+        "scaleY": 1.2,
+        "color": "ff0400ff"
+      },
+      {
+        "name": "letter",
+        "parent": "root",
+        "x": -1.82,
+        "y": -84.46
+      }
+    ],
+    "slots": [
+      {
+        "name": "circle02",
+        "bone": "circle02"
+      },
+      {
+        "name": "circle1",
+        "bone": "circle1"
+      },
+      {
+        "name": "finger",
+        "bone": "finger"
+      },
+      {
+        "name": "letter",
+        "bone": "letter"
+      }
+    ],
+    "skins": {
+      "default": {
+        "circle02": {
+          "circle02": {
+            "width": 109,
+            "height": 109
+          }
+        },
+        "circle1": {
+          "circle01": {
+            "width": 126,
+            "height": 126
+          }
+        },
+        "finger": {
+          "finger": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              29.33,
+              -31.09,
+              -41.67,
+              -31.09,
+              -41.67,
+              39.91,
+              29.33,
+              39.91
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 71,
+            "height": 71
+          }
+        },
+        "letter": {
+          "letter": {
+            "x": 10.79,
+            "y": -1.29,
+            "width": 288,
+            "height": 33
+          }
+        }
+      }
+    },
+    "animations": {
+      "start01": {
+        "slots": {
+          "circle1": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.3333,
+                "name": "circle01"
+              }
+            ]
+          },
+          "circle02": {
+            "color": [
+              {
+                "time": 0.4333,
+                "color": "ffffff44"
+              },
+              {
+                "time": 0.5333,
+                "color": "ffffff7f"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.4333,
+                "name": "circle02"
+              }
+            ]
+          },
+          "finger": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "finger"
+              },
+              {
+                "time": 0.6667,
+                "name": "finger"
+              }
+            ]
+          },
+          "letter": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "letter"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "finger": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 37.71,
+                "y": -24.11,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "x": 37.71,
+                "y": -24.11
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 0.3333,
+                "x": 0.917,
+                "y": 0.917
+              },
+              {
+                "time": 0.6667,
+                "x": 1.2,
+                "y": 1.2
+              }
+            ]
+          },
+          "circle1": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 0.735,
+                "y": 0.735
+              },
+              {
+                "time": 0.6667,
+                "x": 1.463,
+                "y": 1.463
+              }
+            ]
+          },
+          "circle02": {
+            "scale": [
+              {
+                "time": 0.4333,
+                "x": 0.581,
+                "y": 0.581
+              },
+              {
+                "time": 0.8,
+                "x": 1.539,
+                "y": 1.539
+              }
+            ]
+          },
+          "letter": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -2.66,
+                "y": -47.25
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "finger": {
+              "finger": [
+                {
+                  "time": 0
+                },
+                {
+                  "time": 0.3333,
+                  "vertices": [
+                    2.92269,
+                    1.46137,
+                    -0.97425,
+                    -2.92271,
+                    -1.10483,
+                    -12.96097,
+                    -11.17557,
+                    -5.45835
+                  ]
+                },
+                {
+                  "time": 0.6667
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nknock.png\nsize: 256,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncircle01\n  rotate: false\n  xy: 89, 4\n  size: 84, 84\n  orig: 101, 101\n  offset: 9, 8\n  index: -1\ncircle02\n  rotate: false\n  xy: 1, 1\n  size: 87, 87\n  orig: 87, 87\n  offset: 0, 0\n  index: -1\nfinger\n  rotate: false\n  xy: 174, 31\n  size: 57, 57\n  orig: 57, 57\n  offset: 0, 0\n  index: -1\nletter\n  rotate: false\n  xy: 1, 89\n  size: 230, 26\n  orig: 230, 26\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "9b70eb31-7d3b-48cd-8e16-11a97b74665b"
+  },
+  "textures": [
+    {
+      "__uuid__": "b96f946c-8b7e-4b4d-9097-e0a3740211e8"
+    }
+  ],
+  "scale": 1
+}

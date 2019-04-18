@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xindong",
+    "texture": "d1673c79-67f2-48ab-8121-2984e9f7cfe9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      477,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      477,
+      200
+    ]
+  }
+}

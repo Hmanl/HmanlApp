@@ -1,0 +1,213 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "love",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-skeleton.json"
+  ],
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "kyuSb7oAzPWd5HVxtsYkFVBDb+k",
+      "spine": "3.6.50",
+      "width": 960,
+      "height": 1668,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone4",
+        "parent": "root",
+        "x": 9.99,
+        "y": -128.79
+      },
+      {
+        "name": "bone2",
+        "parent": "bone4",
+        "length": 33.52,
+        "rotation": 89.53,
+        "x": -10.3,
+        "y": 26.16,
+        "scaleX": 1.07
+      },
+      {
+        "name": "bone3",
+        "parent": "bone4",
+        "length": 33.52,
+        "rotation": 89.53,
+        "x": -10.3,
+        "y": 37.99
+      }
+    ],
+    "slots": [
+      {
+        "name": "red_water01",
+        "bone": "bone2"
+      },
+      {
+        "name": "red_water2",
+        "bone": "bone3"
+      }
+    ],
+    "skins": {
+      "default": {
+        "red_water01": {
+          "red_water01": {
+            "x": 60.36,
+            "y": -146.6,
+            "rotation": -89.53,
+            "width": 417,
+            "height": 119
+          }
+        },
+        "red_water2": {
+          "red_water01": {
+            "x": 59.85,
+            "y": -74.97,
+            "rotation": -89.53,
+            "width": 417,
+            "height": 119
+          }
+        }
+      }
+    },
+    "animations": {
+      "love": {
+        "slots": {
+          "red_water01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "fca5a5eb"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "red_water01"
+              }
+            ]
+          },
+          "red_water2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ff262694"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "red_water01"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -166.75,
+                "y": -16.79
+              },
+              {
+                "time": 2,
+                "x": -51.94,
+                "y": -16.79,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.0333,
+                "x": -167.31,
+                "y": -17.3
+              },
+              {
+                "time": 4,
+                "x": -50.16,
+                "y": -16.34
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.086,
+                "y": 0.837
+              }
+            ]
+          },
+          "bone3": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -139.87,
+                "y": -3.85,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1,
+                "x": -103.97,
+                "y": -13.45,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "x": -69.48,
+                "y": -5.57,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3,
+                "x": -34.98,
+                "y": -17.84,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": -0.49,
+                "y": -3.85
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nlove.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nred_water01\n  rotate: false\n  xy: 1, 1\n  size: 417, 119\n  orig: 417, 119\n  offset: 0, 0\n  index: -1\n",
+  "atlasUrl": {
+    "__uuid__": "b93bdbb5-7a55-49f2-8aea-535daa3d0096"
+  },
+  "textures": [
+    {
+      "__uuid__": "dfa5b771-d63f-45cc-bb71-b5678d30b62b"
+    }
+  ],
+  "scale": 1
+}

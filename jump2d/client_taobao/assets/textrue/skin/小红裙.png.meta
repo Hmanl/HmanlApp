@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "51dbb85e-e2ae-4c68-9753-ea439d8a5536",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "小红裙": {
+      "ver": "1.0.3",
+      "uuid": "ee604aef-e3e8-4290-a9ed-6686ff3f668b",
+      "rawTextureUuid": "51dbb85e-e2ae-4c68-9753-ea439d8a5536",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 180,
+      "rawWidth": 92,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

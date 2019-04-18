@@ -1,0 +1,41 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.jump2D",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "2",
+  "startScene": "84517491-6987-42da-a48a-93bba439b8cb",
+  "title": "jump2D",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://h5.lexun.com/games/wx/jump2d/1_2_2",
+    "appid": "wx860fe971c47feb44",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "sub_jump2D"
+  },
+  "xxteaKey": "409456a1-c7ca-43",
+  "zipCompressJs": true
+}

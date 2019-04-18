@@ -1,0 +1,62 @@
+
+flipping.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: false
+  xy: 1, 51
+  size: 148, 76
+  orig: 148, 76
+  offset: 0, 0
+  index: -1
+rabbit_body
+  rotate: true
+  xy: 150, 77
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1
+rabbit_body_G
+  rotate: true
+  xy: 1, 1
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+rabbit_head
+  rotate: false
+  xy: 150, 9
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+rabbit_head_G
+  rotate: false
+  xy: 202, 9
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+rabbit_tail
+  rotate: false
+  xy: 94, 35
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+rabbit_tail_G
+  rotate: false
+  xy: 94, 19
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+xuli
+  rotate: false
+  xy: 94, 7
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

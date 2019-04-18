@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lover-Identification",
+    "texture": "d3219f45-2157-4f6f-9327-60ff1fdf8eec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      380,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      380,
+      34
+    ]
+  }
+}

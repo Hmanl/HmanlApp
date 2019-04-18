@@ -1,0 +1,13 @@
+
+score_love01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+love01
+  rotate: false
+  xy: 1, 1
+  size: 310, 307
+  orig: 310, 307
+  offset: 0, 0
+  index: -1

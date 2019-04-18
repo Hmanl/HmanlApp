@@ -1,0 +1,48 @@
+
+flipping_ef.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: true
+  xy: 163, 92
+  size: 151, 78
+  orig: 151, 78
+  offset: 0, 0
+  index: -1
+circle_up
+  rotate: false
+  xy: 1, 44
+  size: 161, 84
+  orig: 167, 100
+  offset: 3, 8
+  index: -1
+hart01
+  rotate: false
+  xy: 1, 1
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+hart02
+  rotate: false
+  xy: 163, 62
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+hart03
+  rotate: false
+  xy: 47, 15
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1, 129
+  size: 151, 114
+  orig: 164, 120
+  offset: 5, 5
+  index: -1

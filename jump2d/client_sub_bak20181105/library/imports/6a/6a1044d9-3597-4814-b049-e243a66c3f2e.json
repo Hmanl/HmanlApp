@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "爱心",
+    "texture": "13b76992-9326-42c3-a578-71cf037e1445",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      39,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      34
+    ]
+  }
+}

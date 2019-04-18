@@ -1,0 +1,748 @@
+2018-12-21T04:04:08.426Z - normal: Load ~/.CocosCreator/settings.json
+2018-12-21T04:04:08.433Z - normal: checking language setting...
+2018-12-21T04:04:08.433Z - normal: Language: zh
+2018-12-21T04:04:10.279Z - success: protocol editor-framework registered
+2018-12-21T04:04:10.279Z - success: protocol app registered
+2018-12-21T04:04:10.279Z - success: protocol theme registered
+2018-12-21T04:04:10.279Z - success: protocol packages registered
+2018-12-21T04:04:10.279Z - success: protocol unpack registerred
+2018-12-21T04:04:10.280Z - success: protocol disable-commonjs registerred
+2018-12-21T04:04:10.484Z - normal: connected!
+2018-12-21T04:04:10.487Z - normal: Check project C:\Users\L\Desktop\jump2D\client_sub_bak20181105
+2018-12-21T04:04:10.491Z - normal: Initializing Cocos2d
+2018-12-21T04:04:10.713Z - normal: Initializing Asset Database
+2018-12-21T04:04:10.757Z - success: protocol uuid registerred
+2018-12-21T04:04:10.757Z - success: protocol db registerred
+2018-12-21T04:04:10.757Z - success: protocol thumbnail registerred
+2018-12-21T04:04:10.757Z - normal: Loading editor/builtin packages
+2018-12-21T04:04:10.776Z - success: anysdk loaded
+2018-12-21T04:04:10.891Z - success: assets loaded
+2018-12-21T04:04:10.893Z - success: builder loaded
+2018-12-21T04:04:10.895Z - success: cocos-analytics loaded
+2018-12-21T04:04:10.898Z - success: console loaded
+2018-12-21T04:04:10.939Z - success: fb-instant-games loaded
+2018-12-21T04:04:10.941Z - success: hierarchy loaded
+2018-12-21T04:04:10.944Z - success: inspector loaded
+2018-12-21T04:04:10.945Z - success: keystore loaded
+2018-12-21T04:04:10.947Z - success: node-library loaded
+2018-12-21T04:04:10.949Z - success: package-asset loaded
+2018-12-21T04:04:10.951Z - success: preferences loaded
+2018-12-21T04:04:10.952Z - success: project-exporter loaded
+2018-12-21T04:04:10.966Z - success: project-importer loaded
+2018-12-21T04:04:10.968Z - success: project-settings loaded
+2018-12-21T04:04:10.970Z - success: ui-kit loaded
+2018-12-21T04:04:10.972Z - success: ui-grid loaded
+2018-12-21T04:04:10.975Z - success: scene loaded
+2018-12-21T04:04:10.976Z - success: sprite-editor loaded
+2018-12-21T04:04:10.979Z - success: store loaded
+2018-12-21T04:04:10.983Z - success: timeline loaded
+2018-12-21T04:04:10.983Z - normal: Loading builtin packages
+2018-12-21T04:04:10.986Z - success: asset-db-debugger loaded
+2018-12-21T04:04:10.987Z - success: code-editor loaded
+2018-12-21T04:04:10.987Z - success: color-picker loaded
+2018-12-21T04:04:10.989Z - success: package-manager loaded
+2018-12-21T04:04:10.991Z - success: qqplay-adapter loaded
+2018-12-21T04:04:10.995Z - success: sdkbox loaded
+2018-12-21T04:04:10.997Z - success: tester loaded
+2018-12-21T04:04:10.999Z - success: ui-kit-preview-extra loaded
+2018-12-21T04:04:11.001Z - success: ui-kit-preview loaded
+2018-12-21T04:04:11.002Z - success: ui-tree loaded
+2018-12-21T04:04:11.003Z - success: weapp-adapter loaded
+2018-12-21T04:04:12.126Z - normal: Initializing project C:\Users\L\Desktop\jump2D\client_sub_bak20181105
+2018-12-21T04:04:12.129Z - normal: Loading packages
+2018-12-21T04:04:12.158Z - success: build-event loaded
+2018-12-21T04:04:12.158Z - normal: Watching packages
+2018-12-21T04:04:12.467Z - normal: Run Application
+2018-12-21T04:04:13.175Z - success: preview server running at http://localhost:7457
+2018-12-21T04:04:18.332Z - normal: 1.9.3
+2018-12-21T06:01:42.983Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame",
+  "debug": false,
+  "dest": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "Widget",
+    "Button",
+    "ProgressBar",
+    "ScrollBar",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "AudioSource",
+    "Animation",
+    "MotionStreak",
+    "Collider",
+    "Action",
+    "Audio",
+    "Graphics",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Camera",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.sub_jump2D",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6"
+  ],
+  "sourceMaps": false,
+  "startScene": "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6",
+  "template": "link",
+  "title": "sub_jump2D",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": true,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "387d2320-ec0c-42",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\L\\Desktop\\jump2D\\client_sub_bak20181105",
+  "projectName": "sub_jump2D",
+  "debugBuildWorker": false
+}
+2018-12-21T06:01:42.986Z - normal: Building C:\Users\L\Desktop\jump2D\client_sub_bak20181105
+2018-12-21T06:01:42.986Z - normal: Destination C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D
+2018-12-21T06:01:43.335Z - normal: Delete C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D\**\*
+2018-12-21T06:02:03.536Z - normal: Compiled project javascript file successfully
+2018-12-21T06:02:03.538Z - normal: Start building assets
+2018-12-21T06:02:03.538Z - normal: Start spawn build-worker
+2018-12-21T06:02:04.372Z - normal: Finish spawn build-worker
+2018-12-21T06:02:04.372Z - normal: Start init build-worker
+2018-12-21T06:02:06.607Z - normal: 1.9.3
+2018-12-21T06:02:06.670Z - normal: Finish init build-worker
+2018-12-21T06:02:06.670Z - normal: Start build-assets in worker
+2018-12-21T06:02:06.952Z - normal: Finish build-assets in worker
+2018-12-21T06:02:06.958Z - normal: Finish building assets
+2018-12-21T06:02:06.980Z - normal: Start building raw assets
+2018-12-21T06:02:06.986Z - normal: Start building plugin scripts
+2018-12-21T06:02:07.086Z - normal: Finish building raw assets
+2018-12-21T06:02:07.093Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\shares\main.js
+2018-12-21T06:02:08.281Z - normal: replace template start
+2018-12-21T06:02:08.282Z - normal: replace template finished
+2018-12-21T06:02:08.287Z - normal: Built to "C:\Users\L\Desktop\jump2D\client\build\wechatgame\wechatgame" successfully
+2018-12-21T06:05:45.917Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame",
+  "debug": false,
+  "dest": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "Widget",
+    "Button",
+    "ProgressBar",
+    "ScrollBar",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "AudioSource",
+    "Animation",
+    "MotionStreak",
+    "Collider",
+    "Action",
+    "Audio",
+    "Graphics",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Camera",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.sub_jump2D",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6"
+  ],
+  "sourceMaps": false,
+  "startScene": "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6",
+  "template": "link",
+  "title": "sub_jump2D",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": true,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "387d2320-ec0c-42",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\L\\Desktop\\jump2D\\client_sub_bak20181105",
+  "projectName": "sub_jump2D",
+  "debugBuildWorker": false
+}
+2018-12-21T06:05:45.927Z - normal: Building C:\Users\L\Desktop\jump2D\client_sub_bak20181105
+2018-12-21T06:05:45.928Z - normal: Destination C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D
+2018-12-21T06:05:45.929Z - normal: Delete C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D\**\*
+2018-12-21T06:06:05.847Z - normal: Compiled project javascript file successfully
+2018-12-21T06:06:05.847Z - normal: Start building assets
+2018-12-21T06:06:05.847Z - normal: Start spawn build-worker
+2018-12-21T06:06:06.662Z - normal: Finish spawn build-worker
+2018-12-21T06:06:06.662Z - normal: Start init build-worker
+2018-12-21T06:06:09.219Z - normal: 1.9.3
+2018-12-21T06:06:09.274Z - normal: Finish init build-worker
+2018-12-21T06:06:09.275Z - normal: Start build-assets in worker
+2018-12-21T06:06:09.733Z - normal: Finish build-assets in worker
+2018-12-21T06:06:09.801Z - normal: Finish building assets
+2018-12-21T06:06:09.825Z - normal: Start building raw assets
+2018-12-21T06:06:09.826Z - normal: Start building plugin scripts
+2018-12-21T06:06:09.911Z - normal: Finish building raw assets
+2018-12-21T06:06:09.918Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\shares\main.js
+2018-12-21T06:06:11.430Z - normal: replace template start
+2018-12-21T06:06:11.431Z - normal: replace template finished
+2018-12-21T06:06:11.437Z - normal: Built to "C:\Users\L\Desktop\jump2D\client\build\wechatgame\wechatgame" successfully
+2018-12-21T06:21:59.865Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame",
+  "debug": false,
+  "dest": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "Widget",
+    "Button",
+    "ProgressBar",
+    "ScrollBar",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "AudioSource",
+    "Animation",
+    "MotionStreak",
+    "Collider",
+    "Action",
+    "Audio",
+    "Graphics",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Camera",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.sub_jump2D",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6"
+  ],
+  "sourceMaps": false,
+  "startScene": "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6",
+  "template": "link",
+  "title": "sub_jump2D",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": true,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "387d2320-ec0c-42",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\L\\Desktop\\jump2D\\client_sub_bak20181105",
+  "projectName": "sub_jump2D",
+  "debugBuildWorker": false
+}
+2018-12-21T06:21:59.879Z - normal: Building C:\Users\L\Desktop\jump2D\client_sub_bak20181105
+2018-12-21T06:21:59.879Z - normal: Destination C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D
+2018-12-21T06:21:59.881Z - normal: Delete C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D\**\*
+2018-12-21T06:22:22.505Z - normal: Compiled project javascript file successfully
+2018-12-21T06:22:22.507Z - normal: Start building assets
+2018-12-21T06:22:22.507Z - normal: Start spawn build-worker
+2018-12-21T06:22:23.352Z - normal: Finish spawn build-worker
+2018-12-21T06:22:23.353Z - normal: Start init build-worker
+2018-12-21T06:22:25.744Z - normal: 1.9.3
+2018-12-21T06:22:25.810Z - normal: Finish init build-worker
+2018-12-21T06:22:25.810Z - normal: Start build-assets in worker
+2018-12-21T06:22:26.116Z - normal: Finish build-assets in worker
+2018-12-21T06:22:26.124Z - normal: Finish building assets
+2018-12-21T06:22:26.143Z - normal: Start building raw assets
+2018-12-21T06:22:26.144Z - normal: Start building plugin scripts
+2018-12-21T06:22:26.200Z - normal: Finish building raw assets
+2018-12-21T06:22:26.206Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\shares\main.js
+2018-12-21T06:22:27.615Z - normal: replace template start
+2018-12-21T06:22:27.617Z - normal: replace template finished
+2018-12-21T06:22:27.622Z - normal: Built to "C:\Users\L\Desktop\jump2D\client\build\wechatgame\wechatgame" successfully
+2018-12-21T06:23:54.083Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame",
+  "debug": false,
+  "dest": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "Widget",
+    "Button",
+    "ProgressBar",
+    "ScrollBar",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "AudioSource",
+    "Animation",
+    "MotionStreak",
+    "Collider",
+    "Action",
+    "Audio",
+    "Graphics",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Camera",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.sub_jump2D",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6"
+  ],
+  "sourceMaps": false,
+  "startScene": "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6",
+  "template": "link",
+  "title": "sub_jump2D",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": true,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "387d2320-ec0c-42",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\L\\Desktop\\jump2D\\client_sub_bak20181105",
+  "projectName": "sub_jump2D",
+  "debugBuildWorker": false
+}
+2018-12-21T06:23:54.104Z - normal: Building C:\Users\L\Desktop\jump2D\client_sub_bak20181105
+2018-12-21T06:23:54.104Z - normal: Destination C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D
+2018-12-21T06:23:54.106Z - normal: Delete C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D\**\*
+2018-12-21T06:23:57.051Z - normal: Compiled project javascript file successfully
+2018-12-21T06:23:57.051Z - normal: Start building assets
+2018-12-21T06:23:57.052Z - normal: Start spawn build-worker
+2018-12-21T06:23:58.005Z - normal: Finish spawn build-worker
+2018-12-21T06:23:58.006Z - normal: Start init build-worker
+2018-12-21T06:24:00.928Z - normal: 1.9.3
+2018-12-21T06:24:00.997Z - normal: Finish init build-worker
+2018-12-21T06:24:00.998Z - normal: Start build-assets in worker
+2018-12-21T06:24:01.374Z - normal: Finish build-assets in worker
+2018-12-21T06:24:01.385Z - normal: Finish building assets
+2018-12-21T06:24:01.405Z - normal: Start building raw assets
+2018-12-21T06:24:01.406Z - normal: Start building plugin scripts
+2018-12-21T06:24:01.484Z - normal: Finish building raw assets
+2018-12-21T06:24:01.489Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\shares\main.js
+2018-12-21T06:24:03.020Z - normal: replace template start
+2018-12-21T06:24:03.021Z - normal: replace template finished
+2018-12-21T06:24:03.028Z - normal: Built to "C:\Users\L\Desktop\jump2D\client\build\wechatgame\wechatgame" successfully
+2018-12-21T06:29:31.504Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame",
+  "debug": false,
+  "dest": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "Widget",
+    "Button",
+    "ProgressBar",
+    "ScrollBar",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "AudioSource",
+    "Animation",
+    "MotionStreak",
+    "Collider",
+    "Action",
+    "Audio",
+    "Graphics",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Camera",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.sub_jump2D",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6"
+  ],
+  "sourceMaps": false,
+  "startScene": "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6",
+  "template": "link",
+  "title": "sub_jump2D",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": true,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "387d2320-ec0c-42",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\L\\Desktop\\jump2D\\client_sub_bak20181105",
+  "projectName": "sub_jump2D",
+  "debugBuildWorker": false
+}
+2018-12-21T06:29:31.519Z - normal: Building C:\Users\L\Desktop\jump2D\client_sub_bak20181105
+2018-12-21T06:29:31.519Z - normal: Destination C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D
+2018-12-21T06:29:31.520Z - normal: Delete C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D\**\*
+2018-12-21T06:29:54.275Z - normal: Compiled project javascript file successfully
+2018-12-21T06:29:54.277Z - normal: Start building assets
+2018-12-21T06:29:54.278Z - normal: Start spawn build-worker
+2018-12-21T06:29:55.298Z - normal: Finish spawn build-worker
+2018-12-21T06:29:55.299Z - normal: Start init build-worker
+2018-12-21T06:29:58.021Z - normal: 1.9.3
+2018-12-21T06:29:58.079Z - normal: Finish init build-worker
+2018-12-21T06:29:58.079Z - normal: Start build-assets in worker
+2018-12-21T06:29:58.430Z - normal: Finish build-assets in worker
+2018-12-21T06:29:58.449Z - normal: Finish building assets
+2018-12-21T06:29:58.474Z - normal: Start building raw assets
+2018-12-21T06:29:58.476Z - normal: Start building plugin scripts
+2018-12-21T06:29:58.607Z - normal: Finish building raw assets
+2018-12-21T06:29:58.611Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\shares\main.js
+2018-12-21T06:30:00.016Z - normal: replace template start
+2018-12-21T06:30:00.017Z - normal: replace template finished
+2018-12-21T06:30:00.023Z - normal: Built to "C:\Users\L\Desktop\jump2D\client\build\wechatgame\wechatgame" successfully
+2018-12-21T06:44:23.261Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame",
+  "debug": false,
+  "dest": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\wechatgame\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "Widget",
+    "Button",
+    "ProgressBar",
+    "ScrollBar",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "AudioSource",
+    "Animation",
+    "MotionStreak",
+    "Collider",
+    "Action",
+    "Audio",
+    "Graphics",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Camera",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.sub_jump2D",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6"
+  ],
+  "sourceMaps": false,
+  "startScene": "5114a0fb-c0e5-4ba6-934e-8620ac08b6c6",
+  "template": "link",
+  "title": "sub_jump2D",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": true,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "387d2320-ec0c-42",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\L\\Desktop\\jump2D\\client_sub_bak20181105",
+  "projectName": "sub_jump2D",
+  "debugBuildWorker": false
+}
+2018-12-21T06:44:23.280Z - normal: Building C:\Users\L\Desktop\jump2D\client_sub_bak20181105
+2018-12-21T06:44:23.280Z - normal: Destination C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D
+2018-12-21T06:44:23.284Z - normal: Delete C:\Users\L\Desktop\jump2D\client\build\wechatgame\sub_jump2D\**\*
+2018-12-21T06:44:46.143Z - normal: Compiled project javascript file successfully
+2018-12-21T06:44:46.145Z - normal: Start building assets
+2018-12-21T06:44:46.145Z - normal: Start spawn build-worker
+2018-12-21T06:44:46.948Z - normal: Finish spawn build-worker
+2018-12-21T06:44:46.949Z - normal: Start init build-worker
+2018-12-21T06:44:49.264Z - normal: 1.9.3
+2018-12-21T06:44:49.334Z - normal: Finish init build-worker
+2018-12-21T06:44:49.334Z - normal: Start build-assets in worker
+2018-12-21T06:44:49.634Z - normal: Finish build-assets in worker
+2018-12-21T06:44:49.646Z - normal: Finish building assets
+2018-12-21T06:44:49.664Z - normal: Start building raw assets
+2018-12-21T06:44:49.665Z - normal: Start building plugin scripts
+2018-12-21T06:44:49.780Z - normal: Finish building raw assets
+2018-12-21T06:44:49.784Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\shares\main.js
+2018-12-21T06:44:51.143Z - normal: replace template start
+2018-12-21T06:44:51.144Z - normal: replace template finished
+2018-12-21T06:44:51.150Z - normal: Built to "C:\Users\L\Desktop\jump2D\client\build\wechatgame\wechatgame" successfully
+2018-12-21T06:47:59.563Z - info: shutdown preview server

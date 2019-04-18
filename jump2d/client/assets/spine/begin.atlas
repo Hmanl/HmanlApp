@@ -1,0 +1,76 @@
+
+begin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dot
+  rotate: false
+  xy: 873, 499
+  size: 67, 43
+  orig: 67, 43
+  offset: 0, 0
+  index: -1
+letter
+  rotate: false
+  xy: 1, 119
+  size: 531, 273
+  orig: 531, 273
+  offset: 0, 0
+  index: -1
+letter01
+  rotate: true
+  xy: 598, 432
+  size: 512, 274
+  orig: 512, 274
+  offset: 0, 0
+  index: -1
+letter01_01
+  rotate: true
+  xy: 873, 543
+  size: 401, 112
+  orig: 401, 112
+  offset: 0, 0
+  index: -1
+letter01_01_shader
+  rotate: false
+  xy: 1, 6
+  size: 418, 112
+  orig: 418, 112
+  offset: 0, 0
+  index: -1
+letter01_shader
+  rotate: false
+  xy: 1, 393
+  size: 556, 274
+  orig: 556, 274
+  offset: 0, 0
+  index: -1
+letter_01
+  rotate: false
+  xy: 533, 220
+  size: 348, 105
+  orig: 348, 105
+  offset: 0, 0
+  index: -1
+letter_01_shader
+  rotate: false
+  xy: 558, 326
+  size: 370, 105
+  orig: 370, 105
+  offset: 0, 0
+  index: -1
+letter_shader
+  rotate: false
+  xy: 1, 668
+  size: 596, 276
+  orig: 596, 276
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 533, 1
+  size: 219, 218
+  orig: 219, 218
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+{
+  "name": "build-event",
+  "version": "0.0.1",
+  "description": "构建完成事件",
+  "author": "parasol",
+  "main": "main.js"
+}

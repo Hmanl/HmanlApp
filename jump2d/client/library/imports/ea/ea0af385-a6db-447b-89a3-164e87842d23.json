@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "score_love01",
+    "texture": "758d61a3-7cd2-4c0f-b711-03291e09679c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      310,
+      307
+    ],
+    "offset": [
+      -100,
+      101.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}

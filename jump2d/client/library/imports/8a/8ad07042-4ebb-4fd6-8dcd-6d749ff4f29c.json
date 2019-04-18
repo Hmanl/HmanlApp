@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skinBg",
+    "texture": "60595e47-2402-43b8-b285-0e4f42cdac4c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      960,
+      1668
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      960,
+      1668
+    ]
+  }
+}

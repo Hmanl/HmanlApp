@@ -1,0 +1,229 @@
+2019-01-24T06:14:58.690Z - normal: Load ~/.CocosCreator/settings.json
+2019-01-24T06:14:58.696Z - normal: checking language setting...
+2019-01-24T06:14:58.696Z - normal: Language: zh
+2019-01-24T06:15:00.640Z - success: protocol editor-framework registered
+2019-01-24T06:15:00.641Z - success: protocol app registered
+2019-01-24T06:15:00.641Z - success: protocol theme registered
+2019-01-24T06:15:00.641Z - success: protocol packages registered
+2019-01-24T06:15:00.641Z - success: protocol unpack registerred
+2019-01-24T06:15:00.641Z - success: protocol disable-commonjs registerred
+2019-01-24T06:15:00.854Z - normal: connected!
+2019-01-24T06:15:00.857Z - normal: Check project C:\Users\L\Desktop\jump2D\client
+2019-01-24T06:15:00.859Z - normal: Initializing Cocos2d
+2019-01-24T06:15:01.076Z - normal: Initializing Asset Database
+2019-01-24T06:15:01.115Z - success: protocol uuid registerred
+2019-01-24T06:15:01.115Z - success: protocol db registerred
+2019-01-24T06:15:01.115Z - success: protocol thumbnail registerred
+2019-01-24T06:15:01.115Z - normal: Loading editor/builtin packages
+2019-01-24T06:15:01.134Z - success: anysdk loaded
+2019-01-24T06:15:01.253Z - success: assets loaded
+2019-01-24T06:15:01.255Z - success: builder loaded
+2019-01-24T06:15:01.257Z - success: cocos-analytics loaded
+2019-01-24T06:15:01.264Z - success: console loaded
+2019-01-24T06:15:01.304Z - success: fb-instant-games loaded
+2019-01-24T06:15:01.307Z - success: hierarchy loaded
+2019-01-24T06:15:01.309Z - success: inspector loaded
+2019-01-24T06:15:01.310Z - success: keystore loaded
+2019-01-24T06:15:01.312Z - success: node-library loaded
+2019-01-24T06:15:01.314Z - success: package-asset loaded
+2019-01-24T06:15:01.315Z - success: preferences loaded
+2019-01-24T06:15:01.317Z - success: project-exporter loaded
+2019-01-24T06:15:01.332Z - success: project-importer loaded
+2019-01-24T06:15:01.334Z - success: project-settings loaded
+2019-01-24T06:15:01.336Z - success: ui-kit loaded
+2019-01-24T06:15:01.338Z - success: ui-grid loaded
+2019-01-24T06:15:01.341Z - success: scene loaded
+2019-01-24T06:15:01.342Z - success: sprite-editor loaded
+2019-01-24T06:15:01.344Z - success: store loaded
+2019-01-24T06:15:01.348Z - success: timeline loaded
+2019-01-24T06:15:01.348Z - normal: Loading builtin packages
+2019-01-24T06:15:01.351Z - success: asset-db-debugger loaded
+2019-01-24T06:15:01.352Z - success: code-editor loaded
+2019-01-24T06:15:01.352Z - success: color-picker loaded
+2019-01-24T06:15:01.354Z - success: package-manager loaded
+2019-01-24T06:15:01.356Z - success: qqplay-adapter loaded
+2019-01-24T06:15:01.359Z - success: sdkbox loaded
+2019-01-24T06:15:01.363Z - success: tester loaded
+2019-01-24T06:15:01.364Z - success: ui-kit-preview-extra loaded
+2019-01-24T06:15:01.367Z - success: ui-kit-preview loaded
+2019-01-24T06:15:01.368Z - success: ui-tree loaded
+2019-01-24T06:15:01.369Z - success: weapp-adapter loaded
+2019-01-24T06:15:02.573Z - normal: Initializing project C:\Users\L\Desktop\jump2D\client
+2019-01-24T06:15:02.576Z - normal: Loading packages
+2019-01-24T06:15:02.585Z - success: build-event loaded
+2019-01-24T06:15:02.592Z - success: i18n loaded
+2019-01-24T06:15:02.592Z - normal: Watching packages
+2019-01-24T06:15:02.925Z - normal: Run Application
+2019-01-24T06:15:03.804Z - success: preview server running at http://localhost:7456
+2019-01-24T06:15:09.152Z - normal: 1.9.3
+2019-01-24T06:17:09.691Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\L\\Desktop\\jump2D\\client\\build",
+  "debug": false,
+  "dest": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\fb-instant-games",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.jump2D",
+  "platform": "fb-instant-games",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "2",
+  "scenes": [
+    "84517491-6987-42da-a48a-93bba439b8cb",
+    "4f8870a9-ba30-42ff-869d-057eba889dad"
+  ],
+  "sourceMaps": false,
+  "startScene": "84517491-6987-42da-a48a-93bba439b8cb",
+  "template": "link",
+  "title": "jump2D",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://h5.lexun.com/games/wx/jump2d/1_2_2",
+    "appid": "wx860fe971c47feb44",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "sub_jump2D"
+  },
+  "xxteaKey": "409456a1-c7ca-43",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\L\\Desktop\\jump2D\\client",
+  "projectName": "jump2D",
+  "debugBuildWorker": false
+}
+2019-01-24T06:17:09.695Z - normal: Building C:\Users\L\Desktop\jump2D\client
+2019-01-24T06:17:09.695Z - normal: Destination C:\Users\L\Desktop\jump2D\client\build\fb-instant-games
+2019-01-24T06:17:10.017Z - normal: Delete C:\Users\L\Desktop\jump2D\client\build\fb-instant-games\**\*
+2019-01-24T06:17:13.660Z - normal: Compiled project javascript file successfully
+2019-01-24T06:17:13.660Z - normal: Start building assets
+2019-01-24T06:17:13.660Z - normal: Start spawn build-worker
+2019-01-24T06:17:14.652Z - normal: Finish spawn build-worker
+2019-01-24T06:17:14.653Z - normal: Start init build-worker
+2019-01-24T06:17:17.197Z - normal: 1.9.3
+2019-01-24T06:17:17.284Z - normal: Finish init build-worker
+2019-01-24T06:17:17.285Z - normal: Start build-assets in worker
+2019-01-24T06:17:21.818Z - normal: Finish build-assets in worker
+2019-01-24T06:17:21.823Z - normal: Finish building assets
+2019-01-24T06:17:21.872Z - normal: Start building raw assets
+2019-01-24T06:17:21.873Z - normal: Start building plugin scripts
+2019-01-24T06:17:22.039Z - normal: Finish building raw assets
+2019-01-24T06:17:22.065Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\shares\main.js
+2019-01-24T06:17:22.190Z - normal: Generating html from D:\Program Files\CocosCreator\resources\static\build-templates\fb-instant-games\index.html
+2019-01-24T06:17:22.192Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\fb-instant-games\main.js
+2019-01-24T06:17:22.210Z - normal: replace template start
+2019-01-24T06:17:22.215Z - normal: replace template finished
+2019-01-24T06:17:22.737Z - normal: Built to "C:\Users\L\Desktop\jump2D\client\build\fb-instant-games" successfully
+2019-01-24T06:41:13.540Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\L\\Desktop\\jump2D\\client\\build",
+  "debug": false,
+  "dest": "C:\\Users\\L\\Desktop\\jump2D\\client\\build\\fb-instant-games",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.jump2D",
+  "platform": "fb-instant-games",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "2",
+  "scenes": [
+    "84517491-6987-42da-a48a-93bba439b8cb",
+    "4f8870a9-ba30-42ff-869d-057eba889dad"
+  ],
+  "sourceMaps": false,
+  "startScene": "84517491-6987-42da-a48a-93bba439b8cb",
+  "template": "link",
+  "title": "jump2D",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://h5.lexun.com/games/wx/jump2d/1_2_2",
+    "appid": "wx860fe971c47feb44",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "sub_jump2D"
+  },
+  "xxteaKey": "409456a1-c7ca-43",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\L\\Desktop\\jump2D\\client",
+  "projectName": "jump2D",
+  "debugBuildWorker": false
+}
+2019-01-24T06:41:13.554Z - normal: Building C:\Users\L\Desktop\jump2D\client
+2019-01-24T06:41:13.554Z - normal: Destination C:\Users\L\Desktop\jump2D\client\build\fb-instant-games
+2019-01-24T06:41:13.555Z - normal: Delete C:\Users\L\Desktop\jump2D\client\build\fb-instant-games\**\*
+2019-01-24T06:41:17.264Z - normal: Compiled project javascript file successfully
+2019-01-24T06:41:17.264Z - normal: Start building assets
+2019-01-24T06:41:17.264Z - normal: Start spawn build-worker
+2019-01-24T06:41:18.262Z - normal: Finish spawn build-worker
+2019-01-24T06:41:18.262Z - normal: Start init build-worker
+2019-01-24T06:41:20.636Z - normal: 1.9.3
+2019-01-24T06:41:20.728Z - normal: Finish init build-worker
+2019-01-24T06:41:20.728Z - normal: Start build-assets in worker
+2019-01-24T06:41:25.104Z - normal: Finish build-assets in worker
+2019-01-24T06:41:25.109Z - normal: Finish building assets
+2019-01-24T06:41:25.154Z - normal: Start building raw assets
+2019-01-24T06:41:25.155Z - normal: Start building plugin scripts
+2019-01-24T06:41:25.279Z - normal: Finish building raw assets
+2019-01-24T06:41:25.309Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\shares\main.js
+2019-01-24T06:41:25.405Z - normal: Generating html from D:\Program Files\CocosCreator\resources\static\build-templates\fb-instant-games\index.html
+2019-01-24T06:41:25.406Z - normal: Generating main.js from D:\Program Files\CocosCreator\resources\static\build-templates\fb-instant-games\main.js
+2019-01-24T06:41:25.419Z - normal: replace template start
+2019-01-24T06:41:25.423Z - normal: replace template finished
+2019-01-24T06:41:25.641Z - normal: Built to "C:\Users\L\Desktop\jump2D\client\build\fb-instant-games" successfully
+2019-01-24T07:18:35.078Z - info: shutdown preview server

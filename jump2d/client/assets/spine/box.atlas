@@ -1,0 +1,48 @@
+
+box.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 366, 132
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+box_light
+  rotate: false
+  xy: 1, 96
+  size: 136, 151
+  orig: 136, 151
+  offset: 0, 0
+  index: -1
+free01
+  rotate: false
+  xy: 88, 16
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+free01_light
+  rotate: false
+  xy: 255, 138
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+free02
+  rotate: false
+  xy: 1, 1
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+free02_light
+  rotate: false
+  xy: 138, 125
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1

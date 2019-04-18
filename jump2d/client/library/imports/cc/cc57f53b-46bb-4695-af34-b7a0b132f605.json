@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "love",
+    "texture": "dfa5b771-d63f-45cc-bb71-b5678d30b62b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      417,
+      119
+    ],
+    "offset": [
+      -46.5,
+      3.5
+    ],
+    "originalSize": [
+      512,
+      128
+    ]
+  }
+}

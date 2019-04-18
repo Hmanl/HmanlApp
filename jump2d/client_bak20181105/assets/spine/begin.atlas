@@ -1,0 +1,48 @@
+
+begin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dot
+  rotate: false
+  xy: 1, 1
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+letter
+  rotate: false
+  xy: 1, 47
+  size: 559, 287
+  orig: 559, 287
+  offset: 0, 0
+  index: -1
+letter01
+  rotate: true
+  xy: 629, 376
+  size: 539, 288
+  orig: 539, 288
+  offset: 0, 0
+  index: -1
+letter01_shader
+  rotate: false
+  xy: 1, 335
+  size: 585, 288
+  orig: 585, 288
+  offset: 0, 0
+  index: -1
+letter_shader
+  rotate: false
+  xy: 1, 624
+  size: 627, 291
+  orig: 627, 291
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: true
+  xy: 561, 104
+  size: 230, 229
+  orig: 230, 229
+  offset: 0, 0
+  index: -1

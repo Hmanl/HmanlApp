@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flipping",
+    "texture": "5fdc6046-c055-49f1-8366-cbdb42252110",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      252,
+      126
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      256,
+      128
+    ]
+  }
+}

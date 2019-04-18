@@ -1,0 +1,62 @@
+
+Cupid.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 323, 157
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+fly
+  rotate: false
+  xy: 323, 103
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1, 49
+  size: 165, 182
+  orig: 165, 182
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 167, 76
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 167, 101
+  size: 155, 130
+  orig: 155, 130
+  offset: 0, 0
+  index: -1
+leg01
+  rotate: false
+  xy: 459, 188
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+leg02
+  rotate: false
+  xy: 409, 185
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+letter
+  rotate: false
+  xy: 1, 1
+  size: 146, 47
+  orig: 146, 47
+  offset: 0, 0
+  index: -1

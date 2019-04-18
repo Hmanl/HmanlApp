@@ -1,0 +1,412 @@
+
+home.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy_body
+  rotate: false
+  xy: 518, 443
+  size: 182, 248
+  orig: 182, 248
+  offset: 0, 0
+  index: -1
+boy_eye
+  rotate: false
+  xy: 728, 704
+  size: 156, 95
+  orig: 156, 95
+  offset: 0, 0
+  index: -1
+boy_eye_C
+  rotate: false
+  xy: 774, 500
+  size: 141, 59
+  orig: 141, 59
+  offset: 0, 0
+  index: -1
+boy_eye_L
+  rotate: false
+  xy: 831, 154
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+boy_eye_R
+  rotate: false
+  xy: 819, 45
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+boy_flower_light
+  rotate: true
+  xy: 360, 4
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+boy_hand_L
+  rotate: true
+  xy: 774, 560
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+boy_hand_L01
+  rotate: true
+  xy: 553, 7
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+boy_hand_R
+  rotate: false
+  xy: 516, 285
+  size: 197, 157
+  orig: 197, 157
+  offset: 0, 0
+  index: -1
+boy_head
+  rotate: false
+  xy: 1, 709
+  size: 326, 314
+  orig: 326, 314
+  offset: 0, 0
+  index: -1
+button01
+  rotate: false
+  xy: 328, 692
+  size: 326, 157
+  orig: 326, 157
+  offset: 0, 0
+  index: -1
+button01_0001
+  rotate: false
+  xy: 809, 5
+  size: 37, 39
+  orig: 163, 85
+  offset: 2, 39
+  index: -1
+button01_0002
+  rotate: false
+  xy: 787, 310
+  size: 145, 72
+  orig: 163, 85
+  offset: 1, 6
+  index: -1
+button01_0003
+  rotate: true
+  xy: 655, 692
+  size: 157, 72
+  orig: 163, 85
+  offset: 1, 6
+  index: -1
+button01_0004
+  rotate: true
+  xy: 701, 534
+  size: 157, 72
+  orig: 163, 85
+  offset: 1, 6
+  index: -1
+button01_0005
+  rotate: false
+  xy: 602, 44
+  size: 156, 72
+  orig: 163, 85
+  offset: 2, 6
+  index: -1
+button01_0006
+  rotate: true
+  xy: 714, 304
+  size: 153, 72
+  orig: 163, 85
+  offset: 5, 6
+  index: -1
+button01_0007
+  rotate: true
+  xy: 941, 803
+  size: 83, 68
+  orig: 163, 85
+  offset: 75, 6
+  index: -1
+button01_0008
+  rotate: true
+  xy: 903, 227
+  size: 34, 33
+  orig: 163, 85
+  offset: 124, 6
+  index: -1
+button01_light
+  rotate: true
+  xy: 885, 704
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+button02
+  rotate: false
+  xy: 1, 25
+  size: 188, 50
+  orig: 188, 50
+  offset: 0, 0
+  index: -1
+button02_0001
+  rotate: false
+  xy: 761, 228
+  size: 68, 75
+  orig: 77, 83
+  offset: 2, 6
+  index: -1
+button02_0002
+  rotate: false
+  xy: 761, 102
+  size: 72, 50
+  orig: 77, 83
+  offset: 2, 31
+  index: -1
+button02_0003
+  rotate: false
+  xy: 830, 240
+  size: 72, 69
+  orig: 77, 83
+  offset: 2, 12
+  index: -1
+button02_0004
+  rotate: false
+  xy: 701, 458
+  size: 72, 75
+  orig: 77, 83
+  offset: 2, 6
+  index: -1
+button02_0005
+  rotate: false
+  xy: 190, 1
+  size: 72, 74
+  orig: 77, 83
+  offset: 2, 6
+  index: -1
+button02_0006
+  rotate: false
+  xy: 831, 187
+  size: 71, 52
+  orig: 77, 83
+  offset: 2, 6
+  index: -1
+button02_0007
+  rotate: false
+  xy: 684, 7
+  size: 70, 36
+  orig: 77, 83
+  offset: 3, 6
+  index: -1
+button02_0008
+  rotate: false
+  xy: 278, 692
+  size: 41, 16
+  orig: 77, 83
+  offset: 32, 6
+  index: -1
+button02_01
+  rotate: false
+  xy: 457, 59
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1
+circle_light
+  rotate: false
+  xy: 1, 391
+  size: 276, 317
+  orig: 276, 333
+  offset: 0, 12
+  index: -1
+girl_body
+  rotate: false
+  xy: 602, 117
+  size: 158, 167
+  orig: 160, 173
+  offset: 2, 6
+  index: -1
+girl_ear_L
+  rotate: true
+  xy: 278, 304
+  size: 158, 237
+  orig: 158, 237
+  offset: 0, 0
+  index: -1
+girl_ear_R
+  rotate: false
+  xy: 457, 101
+  size: 144, 183
+  orig: 144, 183
+  offset: 0, 0
+  index: -1
+girl_ear_head
+  rotate: false
+  xy: 231, 84
+  size: 225, 219
+  orig: 225, 219
+  offset: 0, 0
+  index: -1
+girl_eye
+  rotate: true
+  xy: 939, 668
+  size: 131, 84
+  orig: 131, 84
+  offset: 0, 0
+  index: -1
+girl_eye_L
+  rotate: true
+  xy: 759, 1
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+girl_eye_R
+  rotate: true
+  xy: 930, 264
+  size: 38, 48
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+girl_fly_L
+  rotate: false
+  xy: 263, 6
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1
+girl_fly_R
+  rotate: false
+  xy: 933, 303
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+girl_hair_F01
+  rotate: true
+  xy: 453, 7
+  size: 51, 84
+  orig: 51, 84
+  offset: 0, 0
+  index: -1
+girl_hair_F02
+  rotate: false
+  xy: 231, 304
+  size: 39, 86
+  orig: 39, 86
+  offset: 0, 0
+  index: -1
+girl_hair_F03
+  rotate: true
+  xy: 328, 850
+  size: 173, 374
+  orig: 173, 374
+  offset: 0, 0
+  index: -1
+girl_hair_F04
+  rotate: true
+  xy: 703, 887
+  size: 136, 314
+  orig: 136, 314
+  offset: 0, 0
+  index: -1
+girl_hair_F05
+  rotate: false
+  xy: 907, 395
+  size: 106, 85
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+girl_hair_F06
+  rotate: true
+  xy: 1, 76
+  size: 314, 229
+  orig: 314, 229
+  offset: 0, 0
+  index: -1
+girl_hand
+  rotate: false
+  xy: 915, 566
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+girl_leg_L
+  rotate: false
+  xy: 834, 101
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+girl_leg_R
+  rotate: false
+  xy: 819, 65
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+love
+  rotate: false
+  xy: 787, 383
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+map04_star01
+  rotate: false
+  xy: 1, 13
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+paihang01
+  rotate: false
+  xy: 761, 153
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+paihang01_light
+  rotate: true
+  xy: 759, 45
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+paihang02
+  rotate: true
+  xy: 903, 262
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+paihang02_01
+  rotate: false
+  xy: 602, 16
+  size: 81, 27
+  orig: 81, 27
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 916, 481
+  size: 84, 107
+  orig: 84, 107
+  offset: 0, 0
+  index: -1
+yumao01
+  rotate: false
+  xy: 278, 463
+  size: 239, 228
+  orig: 239, 230
+  offset: 0, 2
+  index: -1
+yumao02
+  rotate: false
+  xy: 728, 800
+  size: 212, 86
+  orig: 212, 86
+  offset: 0, 0
+  index: -1
