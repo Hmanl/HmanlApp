@@ -1,0 +1,132 @@
+
+00_fish.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_fish_G1_body
+  rotate: false
+  xy: 1, 164
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+001_fish_G1_dot
+  rotate: false
+  xy: 174, 204
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+001_fish_G1_eye_L
+  rotate: true
+  xy: 157, 172
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+001_fish_G1_eye_R
+  rotate: false
+  xy: 234, 195
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+001_fish_G1_hand
+  rotate: false
+  xy: 202, 184
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+001_fish_G1_hlight
+  rotate: false
+  xy: 219, 194
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+001_fish_G1_mouth_back
+  rotate: false
+  xy: 98, 168
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+001_fish_G1_teeth_D
+  rotate: false
+  xy: 128, 174
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+001_fish_G1_teeth_U
+  rotate: true
+  xy: 79, 6
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+001_fish_G1_tongue
+  rotate: false
+  xy: 174, 190
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+001_fish_G2_light
+  rotate: false
+  xy: 49, 31
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+001_fish_G2_mouth
+  rotate: false
+  xy: 1, 1
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+001_fish_G2_tail
+  rotate: false
+  xy: 51, 7
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+001_fish_G2_weili
+  rotate: false
+  xy: 98, 186
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+001_fish_G2_yuqi
+  rotate: false
+  xy: 218, 208
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+001_fish_G3_light
+  rotate: false
+  xy: 49, 55
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+001_fish_G3_weili
+  rotate: false
+  xy: 1, 97
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+001_fish_G3_yuqi
+  rotate: false
+  xy: 1, 30
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+home.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_fish
+  rotate: false
+  xy: 1, 137
+  size: 290, 177
+  orig: 290, 177
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 514, 559
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+bubble_star01
+  rotate: false
+  xy: 521, 136
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+button002
+  rotate: false
+  xy: 921, 793
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+button002_1
+  rotate: false
+  xy: 697, 563
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+button002_1_1
+  rotate: false
+  xy: 475, 656
+  size: 107, 43
+  orig: 107, 43
+  offset: 0, 0
+  index: -1
+button002_light
+  rotate: false
+  xy: 778, 708
+  size: 113, 119
+  orig: 113, 119
+  offset: 0, 0
+  index: -1
+button003
+  rotate: true
+  xy: 413, 75
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+button003_1
+  rotate: true
+  xy: 958, 629
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+button003_1_1
+  rotate: false
+  xy: 514, 333
+  size: 60, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+button_light
+  rotate: false
+  xy: 475, 850
+  size: 324, 171
+  orig: 324, 171
+  offset: 0, 0
+  index: -1
+button_light_0002
+  rotate: false
+  xy: 514, 465
+  size: 88, 93
+  orig: 104, 104
+  offset: 8, 6
+  index: -1
+button_light_0003
+  rotate: false
+  xy: 514, 371
+  size: 88, 93
+  orig: 104, 104
+  offset: 8, 6
+  index: -1
+button_light_0004
+  rotate: false
+  xy: 611, 606
+  size: 88, 93
+  orig: 104, 104
+  offset: 8, 6
+  index: -1
+button_light_0005
+  rotate: false
+  xy: 700, 606
+  size: 88, 93
+  orig: 104, 104
+  offset: 8, 6
+  index: -1
+button_light_0006
+  rotate: false
+  xy: 789, 614
+  size: 88, 93
+  orig: 104, 104
+  offset: 8, 6
+  index: -1
+button_light_0007
+  rotate: false
+  xy: 878, 614
+  size: 79, 91
+  orig: 104, 104
+  offset: 17, 6
+  index: -1
+button_light_0008
+  rotate: true
+  xy: 892, 794
+  size: 33, 25
+  orig: 104, 104
+  offset: 62, 6
+  index: -1
+eye01
+  rotate: false
+  xy: 388, 101
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 521, 96
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+fish_new
+  rotate: true
+  xy: 413, 177
+  size: 154, 142
+  orig: 154, 142
+  offset: 0, 0
+  index: -1
+hight_light
+  rotate: false
+  xy: 1, 1
+  size: 127, 14
+  orig: 127, 14
+  offset: 0, 0
+  index: -1
+kun02_eye01
+  rotate: false
+  xy: 364, 316
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+kun02_eye02
+  rotate: true
+  xy: 697, 532
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+kun_eye01
+  rotate: false
+  xy: 1005, 682
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+little_fish
+  rotate: false
+  xy: 611, 534
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+logo03
+  rotate: false
+  xy: 1, 635
+  size: 473, 386
+  orig: 473, 386
+  offset: 0, 0
+  index: -1
+logo_0001
+  rotate: false
+  xy: 1, 315
+  size: 362, 319
+  orig: 362, 319
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 475, 700
+  size: 302, 149
+  orig: 302, 149
+  offset: 0, 0
+  index: -1
+start_01
+  rotate: true
+  xy: 364, 332
+  size: 302, 149
+  orig: 302, 149
+  offset: 0, 0
+  index: -1
+start_guang0001
+  rotate: true
+  xy: 800, 828
+  size: 72, 120
+  orig: 282, 129
+  offset: 4, 5
+  index: -1
+start_guang0002
+  rotate: true
+  xy: 292, 131
+  size: 183, 120
+  orig: 282, 129
+  offset: 4, 5
+  index: -1
+start_guang0003
+  rotate: false
+  xy: 1, 16
+  size: 240, 120
+  orig: 282, 129
+  offset: 4, 5
+  index: -1
+start_guang0004
+  rotate: false
+  xy: 800, 901
+  size: 218, 120
+  orig: 282, 129
+  offset: 43, 5
+  index: -1
+start_guang0005
+  rotate: false
+  xy: 242, 10
+  size: 145, 120
+  orig: 282, 129
+  offset: 134, 5
+  index: -1
+start_guang0006
+  rotate: false
+  xy: 892, 706
+  size: 118, 86
+  orig: 282, 129
+  offset: 161, 5
+  index: -1

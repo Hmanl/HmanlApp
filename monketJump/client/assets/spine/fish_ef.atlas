@@ -1,0 +1,181 @@
+
+fish_ef.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble
+  rotate: false
+  xy: 761, 581
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+bubble_001
+  rotate: false
+  xy: 583, 408
+  size: 68, 79
+  orig: 86, 86
+  offset: 0, 7
+  index: -1
+bubble_base
+  rotate: false
+  xy: 958, 771
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+bubble_star
+  rotate: true
+  xy: 958, 784
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+fly_05
+  rotate: false
+  xy: 491, 668
+  size: 203, 174
+  orig: 203, 218
+  offset: 0, 11
+  index: -1
+fly_06
+  rotate: false
+  xy: 491, 843
+  size: 293, 180
+  orig: 293, 180
+  offset: 0, 0
+  index: -1
+fly_07
+  rotate: false
+  xy: 785, 923
+  size: 183, 100
+  orig: 183, 100
+  offset: 0, 0
+  index: -1
+level_up
+  rotate: false
+  xy: 1, 534
+  size: 489, 489
+  orig: 489, 489
+  offset: 0, 0
+  index: -1
+level_up_2
+  rotate: true
+  xy: 711, 551
+  size: 113, 49
+  orig: 113, 49
+  offset: 0, 0
+  index: -1
+level_up_2_001
+  rotate: true
+  xy: 491, 422
+  size: 245, 44
+  orig: 245, 44
+  offset: 0, 0
+  index: -1
+level_up_2_002
+  rotate: true
+  xy: 536, 438
+  size: 229, 46
+  orig: 229, 46
+  offset: 0, 0
+  index: -1
+level_up_2_01
+  rotate: true
+  xy: 491, 32
+  size: 191, 51
+  orig: 191, 51
+  offset: 0, 0
+  index: -1
+level_up_2_02
+  rotate: false
+  xy: 711, 494
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+level_up_3
+  rotate: true
+  xy: 652, 421
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+level_up_4
+  rotate: true
+  xy: 1, 1
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+level_up_p
+  rotate: false
+  xy: 1, 44
+  size: 489, 489
+  orig: 489, 489
+  offset: 0, 0
+  index: -1
+line_line
+  rotate: false
+  xy: 491, 224
+  size: 43, 197
+  orig: 43, 197
+  offset: 0, 0
+  index: -1
+magnet
+  rotate: false
+  xy: 969, 926
+  size: 7, 97
+  orig: 7, 97
+  offset: 0, 0
+  index: -1
+vertigo_01
+  rotate: true
+  xy: 890, 689
+  size: 164, 67
+  orig: 183, 68
+  offset: 7, 1
+  index: -1
+vertigo_02
+  rotate: true
+  xy: 649, 494
+  size: 170, 61
+  orig: 183, 68
+  offset: 6, 5
+  index: -1
+vertigo_03
+  rotate: true
+  xy: 759, 668
+  size: 174, 62
+  orig: 183, 68
+  offset: 6, 4
+  index: -1
+vertigo_04
+  rotate: true
+  xy: 695, 665
+  size: 177, 63
+  orig: 183, 68
+  offset: 4, 2
+  index: -1
+vertigo_05
+  rotate: true
+  xy: 583, 488
+  size: 179, 65
+  orig: 183, 68
+  offset: 3, 1
+  index: -1
+vertigo_06
+  rotate: false
+  xy: 785, 854
+  size: 182, 68
+  orig: 183, 68
+  offset: 1, 0
+  index: -1
+vertigo_07
+  rotate: true
+  xy: 822, 688
+  size: 165, 67
+  orig: 183, 68
+  offset: 0, 0
+  index: -1

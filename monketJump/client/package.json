@@ -1,0 +1,18 @@
+{
+  "name": "monkeyJump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lxgame-sdk-base": "0.0.1",
+    "lxgame-sdk-lexun": "0.0.1",
+    "lxgame-sdk-weixin": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

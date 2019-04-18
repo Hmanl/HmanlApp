@@ -1,0 +1,48 @@
+
+IDkuang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 240, 141
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 127, 133
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 0, 0
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 127, 52
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 0, 119
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 345, 155
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

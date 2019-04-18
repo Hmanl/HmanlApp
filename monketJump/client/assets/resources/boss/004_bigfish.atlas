@@ -1,0 +1,306 @@
+
+004_bigfish.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attention01
+  rotate: true
+  xy: 130, 6
+  size: 149, 134
+  orig: 149, 134
+  offset: 0, 0
+  index: -1
+black_water02
+  rotate: true
+  xy: 745, 362
+  size: 239, 269
+  orig: 239, 269
+  offset: 0, 0
+  index: -1
+black_water03
+  rotate: true
+  xy: 1, 1
+  size: 154, 128
+  orig: 154, 128
+  offset: 0, 0
+  index: -1
+black_water04
+  rotate: true
+  xy: 745, 168
+  size: 193, 266
+  orig: 193, 266
+  offset: 0, 0
+  index: -1
+bubble_base
+  rotate: false
+  xy: 999, 817
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+fish_bullet01
+  rotate: false
+  xy: 244, 915
+  size: 11, 108
+  orig: 11, 109
+  offset: 0, 1
+  index: -1
+octopus_angry02
+  rotate: false
+  xy: 928, 650
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1
+octopus_body
+  rotate: false
+  xy: 244, 167
+  size: 500, 434
+  orig: 500, 434
+  offset: 0, 0
+  index: -1
+octopus_cap
+  rotate: false
+  xy: 745, 73
+  size: 243, 94
+  orig: 243, 94
+  offset: 0, 0
+  index: -1
+octopus_eye02
+  rotate: false
+  xy: 859, 785
+  size: 139, 56
+  orig: 139, 56
+  offset: 0, 0
+  index: -1
+octopus_eye_hit
+  rotate: true
+  xy: 512, 5
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+octopus_eye_vertigo
+  rotate: false
+  xy: 928, 603
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+octopus_eyebrush01
+  rotate: true
+  xy: 568, 2
+  size: 101, 73
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+octopus_eyebrush02
+  rotate: true
+  xy: 703, 47
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+octopus_hand_R02
+  rotate: true
+  xy: 859, 842
+  size: 113, 162
+  orig: 113, 162
+  offset: 0, 0
+  index: -1
+octopus_hand_R03
+  rotate: true
+  xy: 265, 602
+  size: 421, 593
+  orig: 421, 593
+  offset: 0, 0
+  index: -1
+octopus_hand_attack
+  rotate: false
+  xy: 1, 156
+  size: 242, 867
+  orig: 242, 867
+  offset: 0, 0
+  index: -1
+octopus_koushui
+  rotate: true
+  xy: 928, 739
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: -1
+octopus_mouth02
+  rotate: false
+  xy: 265, 21
+  size: 246, 145
+  orig: 246, 145
+  offset: 0, 0
+  index: -1
+vertigo_01
+  rotate: false
+  xy: 859, 956
+  size: 164, 67
+  orig: 183, 68
+  offset: 7, 1
+  index: -1
+vertigo_03
+  rotate: false
+  xy: 568, 104
+  size: 174, 62
+  orig: 183, 68
+  offset: 6, 4
+  index: -1
+vertigo_05
+  rotate: false
+  xy: 767, 7
+  size: 179, 65
+  orig: 183, 68
+  offset: 3, 1
+  index: -1
+vertigo_06
+  rotate: true
+  xy: 859, 602
+  size: 182, 68
+  orig: 183, 68
+  offset: 1, 0
+  index: -1
+xuli_01
+  rotate: false
+  xy: 642, 6
+  size: 60, 66
+  orig: 62, 67
+  offset: 1, 1
+  index: -1
+xuli_03
+  rotate: false
+  xy: 947, 7
+  size: 62, 65
+  orig: 63, 66
+  offset: 1, 0
+  index: -1
+xuli_04
+  rotate: true
+  xy: 512, 78
+  size: 88, 55
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+xuli_05
+  rotate: false
+  xy: 703, 2
+  size: 63, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+
+004_bigfish2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attention02
+  rotate: false
+  xy: 607, 407
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+black_water01
+  rotate: false
+  xy: 267, 201
+  size: 213, 282
+  orig: 213, 282
+  offset: 0, 0
+  index: -1
+miaozhun
+  rotate: true
+  xy: 1, 484
+  size: 27, 586
+  orig: 27, 586
+  offset: 0, 0
+  index: -1
+octopus_angry01
+  rotate: true
+  xy: 680, 350
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+octopus_cry
+  rotate: false
+  xy: 481, 204
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+octopus_eye
+  rotate: true
+  xy: 729, 403
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+octopus_eye_attack
+  rotate: false
+  xy: 117, 20
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+octopus_hand_R01
+  rotate: false
+  xy: 1, 175
+  size: 265, 308
+  orig: 265, 308
+  offset: 0, 0
+  index: -1
+octopus_mouth
+  rotate: true
+  xy: 1, 1
+  size: 173, 115
+  orig: 173, 115
+  offset: 0, 0
+  index: -1
+vertigo_02
+  rotate: true
+  xy: 545, 313
+  size: 170, 61
+  orig: 183, 68
+  offset: 6, 5
+  index: -1
+vertigo_04
+  rotate: true
+  xy: 481, 306
+  size: 177, 63
+  orig: 183, 68
+  offset: 4, 2
+  index: -1
+xuli_02
+  rotate: false
+  xy: 729, 456
+  size: 51, 55
+  orig: 52, 57
+  offset: 1, 1
+  index: -1
+xuli_06
+  rotate: false
+  xy: 607, 328
+  size: 72, 78
+  orig: 73, 78
+  offset: 1, 0
+  index: -1
+xuli_07
+  rotate: false
+  xy: 481, 240
+  size: 60, 65
+  orig: 62, 65
+  offset: 1, 0
+  index: -1
+xuli_08
+  rotate: false
+  xy: 117, 56
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1

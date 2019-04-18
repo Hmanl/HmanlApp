@@ -1,0 +1,104 @@
+
+bullet.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10001_Skill1_Hit_01
+  rotate: false
+  xy: 449, 207
+  size: 120, 95
+  orig: 188, 179
+  offset: 46, 40
+  index: -1
+10001_Skill1_Hit_03
+  rotate: true
+  xy: 799, 387
+  size: 121, 139
+  orig: 188, 179
+  offset: 31, 16
+  index: -1
+10001_Skill1_Hit_05
+  rotate: true
+  xy: 452, 303
+  size: 113, 129
+  orig: 188, 179
+  offset: 35, 24
+  index: -1
+10001_Skill1_Hit_07
+  rotate: true
+  xy: 301, 224
+  size: 138, 147
+  orig: 188, 179
+  offset: 27, 2
+  index: -1
+10001_Skill1_Hit_09
+  rotate: false
+  xy: 301, 363
+  size: 150, 145
+  orig: 188, 179
+  offset: 11, 20
+  index: -1
+10001_Skill1_Hit_11
+  rotate: true
+  xy: 657, 382
+  size: 126, 141
+  orig: 188, 179
+  offset: 33, 23
+  index: -1
+bullet02
+  rotate: true
+  xy: 300, 138
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+fire_001
+  rotate: true
+  xy: 231, 146
+  size: 94, 68
+  orig: 94, 86
+  offset: 0, 3
+  index: -1
+fire_002
+  rotate: false
+  xy: 582, 344
+  size: 64, 72
+  orig: 94, 86
+  offset: 20, 4
+  index: -1
+fire_003
+  rotate: false
+  xy: 939, 425
+  size: 79, 83
+  orig: 94, 86
+  offset: 11, 3
+  index: -1
+hui
+  rotate: true
+  xy: 452, 417
+  size: 91, 204
+  orig: 122, 218
+  offset: 15, 14
+  index: -1
+hui01
+  rotate: false
+  xy: 1, 45
+  size: 229, 195
+  orig: 229, 195
+  offset: 0, 0
+  index: -1
+iron
+  rotate: false
+  xy: 1, 241
+  size: 299, 267
+  orig: 299, 267
+  offset: 0, 0
+  index: -1
+line_line
+  rotate: true
+  xy: 1, 1
+  size: 43, 197
+  orig: 43, 197
+  offset: 0, 0
+  index: -1

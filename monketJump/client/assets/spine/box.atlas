@@ -1,0 +1,20 @@
+
+box.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: true
+  xy: 1, 1
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+box_light
+  rotate: false
+  xy: 1, 102
+  size: 136, 151
+  orig: 136, 151
+  offset: 0, 0
+  index: -1

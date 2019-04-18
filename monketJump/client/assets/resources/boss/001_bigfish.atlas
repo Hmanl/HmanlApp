@@ -1,0 +1,153 @@
+
+001_bigfish.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attention01
+  rotate: false
+  xy: 241, 382
+  size: 149, 134
+  orig: 149, 134
+  offset: 0, 0
+  index: -1
+attention02
+  rotate: true
+  xy: 423, 510
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+boss_attack
+  rotate: false
+  xy: 863, 821
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+boss_body
+  rotate: false
+  xy: 1, 517
+  size: 421, 489
+  orig: 421, 489
+  offset: 0, 0
+  index: -1
+boss_eye
+  rotate: false
+  xy: 241, 277
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+boss_eyebrush
+  rotate: true
+  xy: 868, 926
+  size: 80, 118
+  orig: 80, 118
+  offset: 0, 0
+  index: -1
+boss_hand
+  rotate: false
+  xy: 423, 826
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+boss_hit
+  rotate: false
+  xy: 391, 397
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+boss_tail
+  rotate: false
+  xy: 1, 343
+  size: 239, 173
+  orig: 239, 173
+  offset: 0, 0
+  index: -1
+boss_teeth_D
+  rotate: true
+  xy: 1, 1
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+boss_teeth_u
+  rotate: false
+  xy: 1, 124
+  size: 100, 218
+  orig: 100, 218
+  offset: 0, 0
+  index: -1
+boss_though
+  rotate: true
+  xy: 423, 632
+  size: 193, 102
+  orig: 193, 102
+  offset: 0, 0
+  index: -1
+boss_vertigo
+  rotate: false
+  xy: 235, 174
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+bubble_base
+  rotate: false
+  xy: 102, 135
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 573, 841
+  size: 114, 165
+  orig: 114, 165
+  offset: 0, 0
+  index: -1
+vertigo_01
+  rotate: true
+  xy: 588, 676
+  size: 164, 67
+  orig: 183, 68
+  offset: 7, 1
+  index: -1
+vertigo_02
+  rotate: true
+  xy: 526, 655
+  size: 170, 61
+  orig: 183, 68
+  offset: 6, 5
+  index: -1
+vertigo_03
+  rotate: false
+  xy: 688, 878
+  size: 174, 62
+  orig: 183, 68
+  offset: 6, 4
+  index: -1
+vertigo_04
+  rotate: true
+  xy: 171, 165
+  size: 177, 63
+  orig: 183, 68
+  offset: 4, 2
+  index: -1
+vertigo_05
+  rotate: false
+  xy: 688, 941
+  size: 179, 65
+  orig: 183, 68
+  offset: 3, 1
+  index: -1
+vertigo_06
+  rotate: true
+  xy: 102, 160
+  size: 182, 68
+  orig: 183, 68
+  offset: 1, 0
+  index: -1

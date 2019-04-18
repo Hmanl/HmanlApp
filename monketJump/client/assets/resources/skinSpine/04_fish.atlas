@@ -1,0 +1,97 @@
+
+04_fish.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+005_fish_G1_ear
+  rotate: false
+  xy: 1, 147
+  size: 81, 17
+  orig: 81, 17
+  offset: 0, 0
+  index: -1
+005_fish_G1_eye
+  rotate: false
+  xy: 70, 37
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+005_fish_G1_hand
+  rotate: false
+  xy: 100, 237
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+005_fish_G1_head
+  rotate: false
+  xy: 1, 165
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1
+005_fish_G1_head03
+  rotate: false
+  xy: 100, 190
+  size: 13, 30
+  orig: 55, 36
+  offset: 23, 0
+  index: -1
+005_fish_G1_head04
+  rotate: false
+  xy: 71, 109
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+005_fish_G1_mouth
+  rotate: false
+  xy: 1, 1
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+005_fish_G1_tail
+  rotate: false
+  xy: 83, 133
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+005_fish_G2_tail
+  rotate: false
+  xy: 70, 50
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+005_fish_G3_face
+  rotate: false
+  xy: 1, 124
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+005_fish_G3_nacklake
+  rotate: false
+  xy: 1, 33
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+005_fish_G3_ring
+  rotate: false
+  xy: 100, 221
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+windmill03
+  rotate: false
+  xy: 51, 2
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+crack.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice_crack_001
+  rotate: false
+  xy: 1, 98
+  size: 221, 96
+  orig: 221, 96
+  offset: 0, 0
+  index: -1
+ice_crack_01
+  rotate: false
+  xy: 112, 84
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+ice_crack_02
+  rotate: true
+  xy: 46, 57
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+ice_crack_03
+  rotate: false
+  xy: 1, 1
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+ice_crack_04
+  rotate: false
+  xy: 1, 34
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+ice_crack_05
+  rotate: false
+  xy: 56, 83
+  size: 55, 14
+  orig: 55, 14
+  offset: 0, 0
+  index: -1
+ice_crack_06
+  rotate: false
+  xy: 56, 70
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+ice_crack_07
+  rotate: true
+  xy: 223, 99
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+ice_crack_08
+  rotate: false
+  xy: 36, 24
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ice_crack_09
+  rotate: false
+  xy: 1, 18
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+ice_crack_10
+  rotate: false
+  xy: 1, 69
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+ice_crack_11
+  rotate: true
+  xy: 223, 139
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1

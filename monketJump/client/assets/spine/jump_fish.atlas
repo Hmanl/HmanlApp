@@ -1,0 +1,139 @@
+
+jump_fish.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attention01
+  rotate: false
+  xy: 1, 376
+  size: 149, 134
+  orig: 149, 134
+  offset: 0, 0
+  index: -1
+attention02
+  rotate: true
+  xy: 1, 1
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 403, 231
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+dici
+  rotate: false
+  xy: 205, 148
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+dici_light
+  rotate: false
+  xy: 320, 219
+  size: 82, 61
+  orig: 82, 74
+  offset: 0, 13
+  index: -1
+energy01
+  rotate: false
+  xy: 320, 181
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+energy02
+  rotate: false
+  xy: 385, 407
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+energy03
+  rotate: false
+  xy: 136, 241
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+energy04
+  rotate: false
+  xy: 403, 318
+  size: 88, 88
+  orig: 103, 103
+  offset: 7, 7
+  index: -1
+energy_0001
+  rotate: true
+  xy: 262, 160
+  size: 40, 53
+  orig: 138, 138
+  offset: 47, 44
+  index: -1
+energy_0002
+  rotate: true
+  xy: 328, 289
+  size: 104, 74
+  orig: 138, 138
+  offset: 15, 34
+  index: -1
+energy_0003
+  rotate: true
+  xy: 233, 281
+  size: 106, 94
+  orig: 138, 138
+  offset: 14, 24
+  index: -1
+energy_0004
+  rotate: true
+  xy: 114, 130
+  size: 110, 90
+  orig: 138, 138
+  offset: 12, 26
+  index: -1
+energy_0005
+  rotate: true
+  xy: 136, 265
+  size: 110, 96
+  orig: 138, 138
+  offset: 12, 23
+  index: -1
+energy_0006
+  rotate: false
+  xy: 1, 123
+  size: 112, 117
+  orig: 138, 138
+  offset: 11, 12
+  index: -1
+energy_0007
+  rotate: false
+  xy: 151, 388
+  size: 122, 122
+  orig: 138, 138
+  offset: 6, 10
+  index: -1
+energy_0008
+  rotate: false
+  xy: 1, 241
+  size: 134, 134
+  orig: 138, 138
+  offset: 0, 4
+  index: -1
+energy_0009
+  rotate: false
+  xy: 274, 394
+  size: 110, 116
+  orig: 138, 138
+  offset: 12, 13
+  index: -1
+energy_0010
+  rotate: true
+  xy: 233, 201
+  size: 79, 86
+  orig: 138, 138
+  offset: 28, 28
+  index: -1

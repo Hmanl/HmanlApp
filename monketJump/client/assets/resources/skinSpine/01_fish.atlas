@@ -1,0 +1,48 @@
+
+01_fish.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+002_fish_G1_body
+  rotate: false
+  xy: 118, 156
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+002_fish_G1_mouth
+  rotate: true
+  xy: 110, 109
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+002_fish_G1_teeth
+  rotate: false
+  xy: 118, 149
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+002_fish_G2_body
+  rotate: false
+  xy: 1, 35
+  size: 108, 100
+  orig: 108, 100
+  offset: 0, 0
+  index: -1
+002_fish_G3_body
+  rotate: false
+  xy: 1, 136
+  size: 116, 107
+  orig: 116, 107
+  offset: 0, 0
+  index: -1
+002_fish_G3_grass
+  rotate: false
+  xy: 1, 1
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1

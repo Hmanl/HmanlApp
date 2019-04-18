@@ -1,0 +1,83 @@
+
+black_hole.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1300_Eff_Skill2_Glow_03
+  rotate: false
+  xy: 1, 1
+  size: 49, 90
+  orig: 49, 90
+  offset: 0, 0
+  index: -1
+circle0001
+  rotate: false
+  xy: 642, 375
+  size: 315, 49
+  orig: 328, 58
+  offset: 7, 6
+  index: -1
+circle0002
+  rotate: false
+  xy: 642, 325
+  size: 314, 49
+  orig: 328, 58
+  offset: 8, 6
+  index: -1
+circle0003
+  rotate: false
+  xy: 1, 92
+  size: 309, 51
+  orig: 328, 58
+  offset: 12, 6
+  index: -1
+circle0004
+  rotate: false
+  xy: 642, 274
+  size: 311, 50
+  orig: 328, 58
+  offset: 10, 6
+  index: -1
+circle0005
+  rotate: false
+  xy: 280, 201
+  size: 315, 49
+  orig: 328, 58
+  offset: 6, 6
+  index: -1
+circle0006
+  rotate: false
+  xy: 642, 227
+  size: 314, 46
+  orig: 328, 58
+  offset: 4, 7
+  index: -1
+circle0007
+  rotate: false
+  xy: 280, 151
+  size: 314, 49
+  orig: 328, 58
+  offset: 4, 5
+  index: -1
+dot
+  rotate: false
+  xy: 958, 407
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+hole
+  rotate: false
+  xy: 1, 251
+  size: 640, 173
+  orig: 640, 174
+  offset: 0, 1
+  index: -1
+hole_center
+  rotate: false
+  xy: 1, 144
+  size: 278, 106
+  orig: 279, 109
+  offset: 1, 0
+  index: -1

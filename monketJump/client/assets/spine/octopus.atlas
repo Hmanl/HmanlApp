@@ -1,0 +1,76 @@
+
+octopus.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+octopus_eye_L
+  rotate: false
+  xy: 235, 110
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+octopus_eye_R
+  rotate: false
+  xy: 20, 5
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+octopus_eye_mouth
+  rotate: false
+  xy: 152, 32
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+octopus_head
+  rotate: false
+  xy: 123, 63
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+octopus_leg01
+  rotate: false
+  xy: 123, 29
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+octopus_leg02
+  rotate: false
+  xy: 206, 94
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+octopus_leg03
+  rotate: false
+  xy: 206, 65
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+octopus_leg04
+  rotate: false
+  xy: 181, 34
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+octopus_leg05
+  rotate: false
+  xy: 1, 1
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+octopus_light
+  rotate: false
+  xy: 1, 23
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1

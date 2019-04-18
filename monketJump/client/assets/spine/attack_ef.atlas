@@ -1,0 +1,97 @@
+
+attack_ef.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_bullet
+  rotate: false
+  xy: 120, 10
+  size: 57, 109
+  orig: 57, 109
+  offset: 0, 0
+  index: -1
+fish_bullet01
+  rotate: true
+  xy: 664, 231
+  size: 11, 108
+  orig: 11, 109
+  offset: 0, 1
+  index: -1
+miaozhun
+  rotate: true
+  xy: 1, 120
+  size: 27, 586
+  orig: 27, 586
+  offset: 0, 0
+  index: -1
+ray01
+  rotate: true
+  xy: 1, 190
+  size: 52, 662
+  orig: 62, 674
+  offset: 3, 8
+  index: -1
+ray02
+  rotate: true
+  xy: 1, 148
+  size: 41, 651
+  orig: 62, 674
+  offset: 8, 14
+  index: -1
+xuli_01
+  rotate: true
+  xy: 340, 59
+  size: 60, 66
+  orig: 62, 67
+  offset: 1, 1
+  index: -1
+xuli_02
+  rotate: true
+  xy: 664, 179
+  size: 51, 55
+  orig: 52, 57
+  offset: 1, 1
+  index: -1
+xuli_03
+  rotate: true
+  xy: 407, 57
+  size: 62, 65
+  orig: 63, 66
+  offset: 1, 0
+  index: -1
+xuli_04
+  rotate: false
+  xy: 251, 64
+  size: 88, 55
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+xuli_05
+  rotate: true
+  xy: 539, 56
+  size: 63, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+xuli_06
+  rotate: false
+  xy: 178, 41
+  size: 72, 78
+  orig: 73, 78
+  offset: 1, 0
+  index: -1
+xuli_07
+  rotate: true
+  xy: 473, 59
+  size: 60, 65
+  orig: 62, 65
+  offset: 1, 0
+  index: -1
+xuli_08
+  rotate: false
+  xy: 1, 1
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1

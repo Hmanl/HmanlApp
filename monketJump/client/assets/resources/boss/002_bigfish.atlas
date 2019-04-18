@@ -1,0 +1,209 @@
+
+002_bigfish.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+002_boss_body
+  rotate: false
+  xy: 1, 170
+  size: 432, 853
+  orig: 432, 853
+  offset: 0, 0
+  index: -1
+002_boss_body 01
+  rotate: false
+  xy: 434, 766
+  size: 203, 257
+  orig: 203, 257
+  offset: 0, 0
+  index: -1
+002_boss_eye
+  rotate: false
+  xy: 434, 401
+  size: 143, 146
+  orig: 143, 146
+  offset: 0, 0
+  index: -1
+002_boss_eye_attack
+  rotate: true
+  xy: 790, 774
+  size: 134, 136
+  orig: 134, 136
+  offset: 0, 0
+  index: -1
+002_boss_eye_brush
+  rotate: true
+  xy: 638, 567
+  size: 52, 127
+  orig: 52, 127
+  offset: 0, 0
+  index: -1
+002_boss_eye_close
+  rotate: true
+  xy: 832, 909
+  size: 114, 147
+  orig: 114, 147
+  offset: 0, 0
+  index: -1
+002_boss_eye_hit
+  rotate: false
+  xy: 640, 464
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+002_boss_eye_hit02
+  rotate: false
+  xy: 980, 972
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+002_boss_eye_vertigo
+  rotate: false
+  xy: 640, 361
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+002_boss_hand
+  rotate: false
+  xy: 434, 548
+  size: 203, 217
+  orig: 203, 217
+  offset: 0, 0
+  index: -1
+002_boss_teeth_d01
+  rotate: false
+  xy: 556, 133
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+002_boss_teeth_d03
+  rotate: false
+  xy: 633, 107
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+003_boss_eye
+  rotate: false
+  xy: 633, 257
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+003_boss_eye_attack
+  rotate: false
+  xy: 638, 786
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+003_boss_eye_attack02
+  rotate: false
+  xy: 633, 173
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+attention01
+  rotate: true
+  xy: 434, 251
+  size: 149, 134
+  orig: 149, 134
+  offset: 0, 0
+  index: -1
+attention02
+  rotate: false
+  xy: 434, 146
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+boss_teeth_D
+  rotate: false
+  xy: 753, 653
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+boss_teeth_u
+  rotate: true
+  xy: 1, 69
+  size: 100, 218
+  orig: 100, 218
+  offset: 0, 0
+  index: -1
+boss_though
+  rotate: false
+  xy: 638, 921
+  size: 193, 102
+  orig: 193, 102
+  offset: 0, 0
+  index: -1
+bubble_base
+  rotate: false
+  xy: 403, 145
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+octopus_cry
+  rotate: true
+  xy: 166, 8
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 638, 620
+  size: 114, 165
+  orig: 114, 165
+  offset: 0, 0
+  index: -1
+vertigo_01
+  rotate: false
+  xy: 1, 1
+  size: 164, 67
+  orig: 183, 68
+  offset: 7, 1
+  index: -1
+vertigo_02
+  rotate: true
+  xy: 578, 377
+  size: 170, 61
+  orig: 183, 68
+  offset: 6, 5
+  index: -1
+vertigo_03
+  rotate: true
+  xy: 927, 734
+  size: 174, 62
+  orig: 183, 68
+  offset: 6, 4
+  index: -1
+vertigo_04
+  rotate: true
+  xy: 569, 199
+  size: 177, 63
+  orig: 183, 68
+  offset: 4, 2
+  index: -1
+vertigo_05
+  rotate: false
+  xy: 220, 35
+  size: 179, 65
+  orig: 183, 68
+  offset: 3, 1
+  index: -1
+vertigo_06
+  rotate: false
+  xy: 220, 101
+  size: 182, 68
+  orig: 183, 68
+  offset: 1, 0
+  index: -1

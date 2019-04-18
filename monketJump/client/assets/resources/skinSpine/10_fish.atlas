@@ -1,0 +1,97 @@
+
+10_fish.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+011_fish_G1_body
+  rotate: false
+  xy: 1, 49
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+011_fish_G1_eye_L
+  rotate: false
+  xy: 219, 208
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+011_fish_G1_eye_R
+  rotate: false
+  xy: 57, 38
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+011_fish_G2_body
+  rotate: true
+  xy: 190, 39
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+011_fish_G2_eye_L
+  rotate: false
+  xy: 42, 31
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+011_fish_G2_eye_R
+  rotate: false
+  xy: 25, 10
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+011_fish_G2_hair
+  rotate: false
+  xy: 1, 147
+  size: 115, 104
+  orig: 115, 104
+  offset: 0, 0
+  index: -1
+011_fish_G2_head
+  rotate: false
+  xy: 116, 52
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+011_fish_G2_tail
+  rotate: false
+  xy: 1, 1
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+011_fish_G3_body
+  rotate: false
+  xy: 117, 177
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+011_fish_G3_cap
+  rotate: false
+  xy: 117, 119
+  size: 99, 57
+  orig: 99, 57
+  offset: 0, 0
+  index: -1
+011_fish_G3_tail
+  rotate: false
+  xy: 219, 222
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+011_fish_G3_tile
+  rotate: false
+  xy: 1, 26
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1

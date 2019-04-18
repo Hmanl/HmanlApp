@@ -1,0 +1,62 @@
+
+GUIDE.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F01
+  rotate: false
+  xy: 407, 224
+  size: 54, 14
+  orig: 54, 14
+  offset: 0, 0
+  index: -1
+F02
+  rotate: false
+  xy: 407, 224
+  size: 54, 14
+  orig: 54, 14
+  offset: 0, 0
+  index: -1
+F03
+  rotate: false
+  xy: 193, 128
+  size: 93, 43
+  orig: 93, 43
+  offset: 0, 0
+  index: -1
+F04
+  rotate: false
+  xy: 287, 160
+  size: 93, 43
+  orig: 93, 43
+  offset: 0, 0
+  index: -1
+letter
+  rotate: false
+  xy: 1, 172
+  size: 285, 31
+  orig: 285, 31
+  offset: 0, 0
+  index: -1
+letter_01
+  rotate: false
+  xy: 1, 204
+  size: 405, 34
+  orig: 405, 34
+  offset: 0, 0
+  index: -1
+phone_B
+  rotate: false
+  xy: 1, 1
+  size: 95, 170
+  orig: 95, 170
+  offset: 0, 0
+  index: -1
+phone_F
+  rotate: false
+  xy: 97, 1
+  size: 95, 170
+  orig: 95, 170
+  offset: 0, 0
+  index: -1

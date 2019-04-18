@@ -1,0 +1,251 @@
+
+13_fish.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+013_fish_G3_start
+  rotate: false
+  xy: 366, 170
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+014_fish_G1_body
+  rotate: false
+  xy: 324, 210
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+014_fish_G1_eyebrush
+  rotate: false
+  xy: 232, 157
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+014_fish_G1_hand_L
+  rotate: false
+  xy: 159, 65
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+014_fish_G1_hand_R
+  rotate: false
+  xy: 461, 158
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+014_fish_G1_leg
+  rotate: false
+  xy: 489, 195
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+014_fish_G1_mouth
+  rotate: true
+  xy: 60, 1
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+014_fish_G2_body
+  rotate: false
+  xy: 123, 200
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1
+014_fish_G2_eye
+  rotate: false
+  xy: 106, 122
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+014_fish_G2_eye_L
+  rotate: false
+  xy: 81, 3
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+014_fish_G2_eye_R
+  rotate: false
+  xy: 99, 4
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+014_fish_G2_hand_L
+  rotate: false
+  xy: 193, 134
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+014_fish_G2_hand_R
+  rotate: true
+  xy: 461, 180
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+014_fish_G2_head
+  rotate: false
+  xy: 1, 72
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+014_fish_G2_mouth
+  rotate: true
+  xy: 110, 20
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+014_fish_G3_body
+  rotate: false
+  xy: 1, 20
+  size: 98, 51
+  orig: 98, 51
+  offset: 0, 0
+  index: -1
+014_fish_G3_bullom01
+  rotate: true
+  xy: 414, 219
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+014_fish_G3_bullom02
+  rotate: true
+  xy: 123, 159
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+014_fish_G3_bullom03
+  rotate: true
+  xy: 224, 214
+  size: 41, 99
+  orig: 41, 99
+  offset: 0, 0
+  index: -1
+014_fish_G3_cap
+  rotate: false
+  xy: 1, 172
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+014_fish_G3_cap01
+  rotate: true
+  xy: 406, 166
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+014_fish_G3_cap02
+  rotate: true
+  xy: 406, 187
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+014_fish_G3_eye
+  rotate: false
+  xy: 1, 6
+  size: 58, 13
+  orig: 58, 13
+  offset: 0, 0
+  index: -1
+014_fish_G3_eyeball
+  rotate: false
+  xy: 106, 163
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+014_fish_G3_eyebrush
+  rotate: false
+  xy: 414, 209
+  size: 55, 9
+  orig: 55, 9
+  offset: 0, 0
+  index: -1
+014_fish_G3_hand_L
+  rotate: true
+  xy: 159, 86
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+014_fish_G3_hand_R
+  rotate: true
+  xy: 175, 136
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+014_fish_G3_leg
+  rotate: true
+  xy: 100, 45
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+014_fish_G3_mouth
+  rotate: true
+  xy: 100, 20
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+014_fish_G3_nacklake
+  rotate: true
+  xy: 492, 216
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+014_fish_G3_paper
+  rotate: false
+  xy: 193, 156
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+014_fish_G3_talk01
+  rotate: true
+  xy: 322, 171
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+014_fish_G3_talk02
+  rotate: false
+  xy: 106, 76
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+014_fish_G3_talk03
+  rotate: false
+  xy: 278, 170
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+014_fish_G3_talk04
+  rotate: false
+  xy: 232, 167
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
