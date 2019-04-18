@@ -1,0 +1,1 @@
+!function(){function n(){n.__super.call(this),this.init()}Laya.class(n,"RankView",rankViewUI);var i=n.prototype;i.init=function(){Config.scaleBtn(this.backBtn,this.closeRank),this.theMask.on(Laya.Event.MOUSE_MOVE,this,function(n){n.stopPropagation()})},i.closeRank=function(){console.log("关闭排行榜"),LayaAir3D.prototype.hideRank("closeRankView"),Laya.rankView.visible=!1}}();
