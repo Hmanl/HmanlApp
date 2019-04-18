@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="author" content="Wayou">
+        <meta name="description" content="hichat | a simple chat application built with node.js and websocket">
+        <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1, maximum-scale=1.0">
+        <title>wechat</title>
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class="banner">
+                <h1>成哥私人聊天室</h1>
+                <span id="status"></span>
+            </div>
+            <div id="historyMsg">
+            </div>
+            <div class="controls" >
+                <div class="items">
+                    <input id="colorStyle" type="color" placeHolder='#000' title="font color" />
+                    <input id="emoji" type="button" value="表情" title="表情" />
+                    <label for="sendImage" class="imageLable">
+                        <input type="button" value="图片"  />
+                        <input id="sendImage" type="file" value="图片"/>
+                    </label>
+                    <input id="clearBtn" type="button" value="清除" title="清除记录" />
+                </div>
+                <textarea id="messageInput" placeHolder="发送消息"></textarea>
+                <input id="sendBtn" type="button" value="发送">
+                <div id="emojiWrapper">
+                </div>
+            </div>
+        </div>
+        <div id="loginWrapper">
+            <p id="info">正在连接聊天室.....</p>
+            <div id="nickWrapper">
+                <input type="text" placeHolder="请输入昵称" id="nicknameInput" />
+                <input type="button" value="确定" id="loginBtn" />
+            </div>
+        </div>
+        <script src="/socket.io/socket.io.js"></script>
+        <script src="js/hichat.js"></script>
+    </body>
+</html>

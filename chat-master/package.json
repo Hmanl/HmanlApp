@@ -1,0 +1,18 @@
+{
+    "name": "聊嗨",
+    "description": "一个真实聊天室",
+    "version": "0.4.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "3.4.x",
+        "jquery": "^3.4.0",
+        "socket.io": "0.9.x"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    },
+    "devDependencies": {
+        "node-tap": "^1.0.0"
+    }
+}
