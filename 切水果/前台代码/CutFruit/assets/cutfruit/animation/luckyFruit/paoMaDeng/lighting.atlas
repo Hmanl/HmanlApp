@@ -1,0 +1,20 @@
+
+lighting.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caideng
+  rotate: false
+  xy: 452, 0
+  size: 451, 306
+  orig: 451, 306
+  offset: 0, 0
+  index: -1
+caideng1
+  rotate: false
+  xy: 0, 0
+  size: 451, 306
+  orig: 451, 306
+  offset: 0, 0
+  index: -1

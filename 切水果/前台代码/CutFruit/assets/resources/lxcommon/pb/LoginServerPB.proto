@@ -1,0 +1,150 @@
+/*********************通用信息************************/
+//返回的结果对象(服务器发送)
+message S_Result_Msg {
+    optional    int32   issuccess = 1;							//成功1  失败0
+    optional    int32   errorcode = 2;							//错误代号
+    optional    string  errormsg = 3;							//错误信息
+}
+/*********************通用信息************************/
+
+/*********************登陆服务器************************/
+//登陆登陆服务器(客户端发送)
+//主命令: Main_CMD_Login_Server 11
+//子命令: Sub_CMD_C_Login_Login 1001
+message C_Login_Server_Msg {
+    optional	string	userencrypstring = 1;						//用户加密数据
+    optional	string	userencryptkey = 2;							//加密的密钥
+}
+
+//域名端口信息
+message S_Login_ServerBean_Msg {
+    optional	string	domain = 1;									//域名
+    optional	int32	port = 2;									//端口号
+}
+
+//登陆登陆服务器(服务器返回)
+//主命令: Main_CMD_Login_Server 11
+//子命令: Sub_CMD_S_Login_Login 1
+message S_Login_ServerList_Msg {
+    optional	S_Result_Msg	resultbean = 1;						//结果对象
+	optional	int32	userid = 2;									//用户id
+	optional	string	code = 3;									//验证code
+    repeated	S_Login_ServerBean_Msg	loginServerList = 4;		//域名 端口号列表
+}
+
+//登陆游戏服务器(客户端发送)
+//主命令: Main_CMD_Login_Server 11
+//子命令: Sub_CMD_C_Login_Game 1002
+message C_Login_GameServer_Msg {
+    optional	int32	userid = 1;									//用户ID
+    optional	string	code = 2;									//验证code
+	optional	int32	gameid = 3;									//游戏id
+}
+
+//用户信息
+message User_Info {
+	optional	int32	userid = 1;									//用户id
+	optional	string	nick = 2;									//用户昵称
+	optional	string	headimg = 3;								//用户头像
+	optional	int32	sceneid = 4;								//场景id
+}
+
+//登陆游戏服务器(服务器返回)
+//主命令: Main_CMD_Login_Server 11
+//子命令: Sub_CMD_S_Login_Game 2
+message S_Login_GameServer_Msg {
+    optional	S_Result_Msg	resultbean = 1;						//结果对象
+    optional	User_Info	userinfo = 2;							//用户信息
+}
+
+//断开Socket(服务器推送)
+//主命令: Main_CMD_Login_Server 11
+//子命令: Sub_CMD_S_Game_Offline 101
+message S_User_Kicked_Msg{
+	optional	int32	code = 1;									//结果码
+	optional	string	msg = 2;									//消息内容
+	optional	int32	sceneid = 3;								//场景id
+}
+
+//断开Socket(服务器推送)
+//主命令: Main_CMD_Login_Server 11
+//子命令: Sub_CMD_S_Game_Kicked 102
+//S_User_Kicked_Msg
+
+//用户请求退出(服务器推送)
+//主命令: Main_CMD_Login_Server 11
+//子命令: Sub_CMD_S_Game_ReqQuit 103
+//S_User_Kicked_Msg
+
+//***********************************登陆服务器**************************************//
+
+//***********************************游戏服务器**************************************//
+//用户进入(客户端发送)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_C_User_Enter 1001
+message C_User_Enter_Msg {
+    optional	string	param = 1;									//参数
+}
+
+//用户进入(服务器返回)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_S_User_Enter 1
+//S_Result_Msg
+
+//用户退出(客户端发送)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_C_User_Quit 1002
+message C_User_Quit_Msg {
+    optional	string	param = 1;									//参数
+}
+
+//用户退出(服务器返回)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_S_User_Quit 2
+//S_Result_Msg
+
+//金币详情(客户端发送)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_C_Golds_Detail 1003
+//none
+
+//金币详情(服务器返回)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_S_Golds_Detail 3
+message S_Golds_Detail_Msg {
+	optional	int64	golds = 1;									//游戏币
+	optional	int64	stone = 2;									//乐币
+}
+
+//追加金币(客户端发送)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_C_Golds_Append 1004
+message C_Golds_Action_Msg {
+	optional	int64	golds = 1;									//兑换金币
+	optional	string	param = 2;									//参数
+}
+
+//追加金币(服务器返回)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_S_Golds_Append 4
+//S_Result_Msg
+
+//取出金币(客户端发送)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_C_Golds_Fetch 1005
+//Sub_CMD_C_Golds_Append
+
+//取出金币(服务器返回)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_S_Golds_Fetch 5
+//S_Result_Msg
+
+//游戏券信息(服务器推送)
+//主命令: Main_CMD_Login_Game = sceneid * 10
+//子命令: Sub_CMD_S_GCoupon_Info 101
+message S_GCoupon_Info{
+	optional	int64	limitcoupon = 1;
+	optional	int64	usablecoupon = 2;
+	optional	int64	allcoupon = 3;
+}
+//***********************************游戏服务器**************************************/

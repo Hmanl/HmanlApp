@@ -1,0 +1,69 @@
+
+loading.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1, 27
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 245, 215
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 245, 206
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jiguan
+  rotate: false
+  xy: 1, 1
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+smoke_01
+  rotate: false
+  xy: 212, 205
+  size: 32, 20
+  orig: 58, 36
+  offset: 25, 3
+  index: -1
+smoke_02
+  rotate: false
+  xy: 153, 165
+  size: 32, 23
+  orig: 58, 36
+  offset: 17, 4
+  index: -1
+smoke_03
+  rotate: false
+  xy: 59, 45
+  size: 36, 28
+  orig: 58, 36
+  offset: 2, 3
+  index: -1
+smoke_04
+  rotate: false
+  xy: 153, 189
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+square_B
+  rotate: false
+  xy: 1, 74
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1

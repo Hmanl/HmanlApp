@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "281151b3-138b-4abe-831a-8f3f3495f2bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "betStone": {
+      "ver": "1.0.3",
+      "uuid": "51205960-00f7-4750-ae4c-be630e22a025",
+      "rawTextureUuid": "281151b3-138b-4abe-831a-8f3f3495f2bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 41,
+      "rawWidth": 68,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+
+combo.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lianji
+  rotate: false
+  xy: 1, 1
+  size: 137, 67
+  orig: 137, 67
+  offset: 0, 0
+  index: -1

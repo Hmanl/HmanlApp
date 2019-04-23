@@ -1,0 +1,62 @@
+
+fruit_effect.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble_G
+  rotate: false
+  xy: 116, 86
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bubble_O
+  rotate: false
+  xy: 156, 129
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bubble_R
+  rotate: false
+  xy: 116, 55
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bubble_W
+  rotate: false
+  xy: 187, 129
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bubble_Y
+  rotate: false
+  xy: 116, 24
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+juice
+  rotate: false
+  xy: 1, 117
+  size: 154, 128
+  orig: 154, 128
+  offset: 0, 0
+  index: -1
+juice_G
+  rotate: false
+  xy: 1, 1
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+juice_G_02
+  rotate: false
+  xy: 156, 160
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1

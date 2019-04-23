@@ -1,0 +1,253 @@
+/*********************通用信息************************/
+//返回的结果对象
+message S_Result_Info {
+    optional    int32   result = 1;								//1: 成功 0: 失败
+    optional    int32   code = 2;								//结果码
+    optional    string  outmsg = 3;								//输出消息
+}
+
+//客户端通用分页
+message Pagination_Info{
+    optional	string	menu = 1;								//菜单类型(业务确定)
+	optional	string	data = 2;								//菜单状态(业务确定)
+    optional	int32	page = 3;								//页码
+	optional	int32	pagesize = 4;							//页长度
+	optional	int64	total = 5;								//数据总长度
+}
+/*********************通用信息************************/
+
+/*********************游戏信息************************/
+//推送消息
+message OfflineMsg_Info{
+	optional	int32	msgtype = 1;							//消息类型
+	optional	string	message = 2;							//消息内容
+}
+
+//用户信息
+message User_Info{
+	optional	int32	userid = 1;								//用户id
+	optional	string	nick = 2;								//昵称
+	optional	string	headimg = 3;							//头像
+	optional	int32	gender = 4;								//性别(0: 未知 1: 男 2: 女)
+	optional	int32	status = 5;								//用户状态(1: 在线 2: 离开(断线) 4: 退出)
+}
+
+//金币信息
+message User_Stone_Info{
+	optional	int64	stone = 1;								//金币
+}
+
+//玩家信息
+message User_Player_Info{
+	optional	int64	roomid = 1;								//房间id
+	repeated	int64	wager = 2;								//投注信息
+	optional	bool	isnewer = 3;							//是否新用户
+}
+
+//用户视图
+message User_View{	
+	optional	User_Info	userinfo = 1;
+	optional	User_Player_Info	playerinfo = 2;
+	optional	User_Stone_Info	stoneinfo = 3;
+}
+
+//房间信息
+message Room_Info{
+	optional	int32	id = 1;									//房间id
+	optional	User_Info	owner = 2;							//拥有着
+	optional	int32	status = 3;								//房间状态(0: 未启动 1: 准备中 2: 运行中 4: 停止中 8: 已停止)
+	optional	Gamble_Info	gambleinfo = 4;						//游戏信息
+	repeated	Settle_Info	settleinfos = 5;					//历史结算信息
+}
+
+//奖池信息
+message Jackpot_Info{
+	optional	int64	stone = 1;								//奖池信息
+}
+
+//游戏信息
+message Gamble_Info{
+	optional	int32	id = 1;									//比赛id
+	optional	int32	status = 2;								//状态(0: 未开启 1: 投注中 2: 推算中 4: 结算中 8: 异常 16: 已停止)
+	optional	int64	interval = 3;							//时间间隔
+	repeated	int32	wagerids = 4;							//投注项目对应id(数组)
+	repeated	int64	wager = 5;								//投注信息(数组)
+}
+
+//投注信息
+message Wager_Info{
+	optional	int32	id = 1;									//投注id(CaoMei 0, ChengZi 1, NingMeng 2, PingGuo 3, TaoZi 4, XiGua 5, XiangJiao 6,YingTao 7)
+	optional	double	odds = 2;								//赔率
+}
+
+//用户投注信息
+message Player_Wager_Info{
+	optional	int32	wagerid = 1;							//赌注
+	optional	int64	betstone = 2;							//投注
+	optional	int64	winstone = 3;							//盈利
+}
+
+//用户结算信息
+message Player_Settle_Info{
+	optional	User_Info	userinfo = 1;						//用户信息
+	optional	int64	betstone = 2;							//投注
+	optional	int64	winstone = 3;							//盈利
+	optional	string	reward = 4;								//其他奖励(json)
+	repeated	Player_Wager_Info	wager = 5;					//投注信息
+}
+
+//结算消息
+message Settle_Info{
+	optional	int64	gambleid = 1;							//比赛id
+	repeated	Wager_Info	winfos = 2;							//投注信息
+	optional	Player_Settle_Info	uinfo = 3;					//结算信息(自己)
+	repeated	Player_Settle_Info	uinfos = 4;					//结算列表（所有人）
+	optional	int64	winstone = 5;							//投注
+	optional	int64	betstone = 6;							//盈利
+}
+
+//推送消息(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Game_OfflineMsg 101
+message P_Game_OfflineMsg{
+	repeated	OfflineMsg_Info	infos = 1;						//推送消息列表
+}
+
+//场景信息(服务器推送) 
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Game_Scene_View 102
+message S_Game_Scene_View{
+	optional	User_View	userview = 1;						//用户信息
+	optional	Room_Info	roominfo = 2;						//房间信息
+	optional	Jackpot_Info	jackpotinfo = 3;				//奖池信息
+}
+
+//用户信息(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_S_Game_User_View 103
+message S_Game_User_View{
+	optional	User_View	userview = 1;						//用户信息
+}
+
+//金币信息(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_User_Stone_Info 104
+message P_User_Stone_Info{
+	optional	User_Stone_Info	info = 1;						//金币信息
+}
+
+//游戏开启(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Room_Info 105
+message Sub_CMD_P_Room_Info{
+	optional	Room_Info	info = 1;							//房间信息
+}
+
+//游戏开启(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Gamble_Open 106
+message P_Gamble_Open{
+	optional	Gamble_Info	gambleinfo = 1;						//游戏信息
+}
+
+//推断结果(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Gamble_Bet 107
+message P_Gamble_Bet{	
+	optional	Gamble_Info	gambleinfo = 1;						//游戏信息
+}
+
+//推断结果(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Gamble_Conclude 108
+message P_Gamble_Conclude{	
+	optional	Gamble_Info	gambleinfo = 1;						//游戏信息
+}
+
+//结算奖励(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Gamble_Settle 109
+message P_Gamble_Settle{	
+	optional	Gamble_Info	gambleinfo = 1;						//游戏信息
+	optional	Settle_Info	settleinfo = 2;						//结算信息
+}
+
+//游戏关闭(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Gamble_Close 110
+//None
+
+//推送投注(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Gamble_User_Bet 111
+message P_Gamble_User_Bet{
+	optional	User_Info	userinfo = 1;						//用户信息
+	optional	int32	gambleid = 2;							//游戏信息
+	optional	int32	wagerid = 3;							//投注id
+	repeated	int64	wager = 4;								//投注信息
+}
+
+//推送投注(服务器推送)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_P_Gamble_Jackpot_Info 112
+message P_Gamble_Jackpot_Info{
+	optional	Jackpot_Info	info = 1;						//奖池信息
+}
+
+//进入房间(客户端请求)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_C_Gamble_User_EnterRoom 1001
+message	C_Gamble_User_EnterRoom{
+	optional	int32	roomid = 1;								//房间id
+}
+
+//进入房间(服务器返回)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_S_Gamble_User_EnterRoom 1
+message	S_Gamble_User_EnterRoom{
+	optional	S_Result_Info	resultbean = 1;					//结果信息
+	optional	User_View	userview = 2;						//用户信息
+	optional	Room_Info	roominfo = 3;						//房间信息
+}
+
+//退出房间(客户端请求)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_C_Gamble_User_QuitRoom 1002
+//None
+
+//退出房间(服务器返回)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_S_Gamble_User_QuitRoom 2
+message S_Gamble_User_QuitRoom{
+	optional	S_Result_Info	resultbean = 1;					//结果信息
+}
+
+//玩家投注(客户端请求)->Sub_CMD_P_Gamble_User_Bet,Sub_CMD_P_User_Stone_Info
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_C_Gamble_User_Bet 1003
+message	C_Gamble_User_Bet{
+	optional	int64	wagerid = 1;							//投注id
+	optional	int64	stone = 2;								//投注信息
+}
+
+//玩家投注(服务器返回)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_S_Gamble_User_Bet 3
+message	S_Gamble_User_Bet{
+	optional	S_Result_Info	resultbean = 1;					//结果信息
+	repeated	int64	wager = 2;								//投注内容
+}
+
+//玩家投注(客户端请求)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_C_Gamble_NewerReward 1004
+//None
+
+//玩家投注(服务器返回)
+//主命令: Main_CMD_Game 18001
+//子命令: Sub_CMD_S_Gamble_NewerReward 4
+message	S_Gamble_NewerReward{
+	optional	S_Result_Info	resultbean = 1;					//结果信息
+	optional	int64	stone = 2;								//奖励金额
+}
+/*********************游戏信息************************/
