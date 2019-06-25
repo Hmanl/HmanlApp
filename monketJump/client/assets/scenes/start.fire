@@ -360,7 +360,7 @@
     "defaultSkin": "",
     "defaultAnimation": "fish",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "ba8fc409-1969-4798-969b-159b0f90e2e4"
     },
@@ -646,7 +646,7 @@
     "defaultSkin": "",
     "defaultAnimation": "logo",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "ba8fc409-1969-4798-969b-159b0f90e2e4"
     },
@@ -718,7 +718,7 @@
     "defaultSkin": "",
     "defaultAnimation": "bubble",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "ba8fc409-1969-4798-969b-159b0f90e2e4"
     },
@@ -913,7 +913,7 @@
     "defaultSkin": "",
     "defaultAnimation": "button",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "ba8fc409-1969-4798-969b-159b0f90e2e4"
     },
@@ -1137,7 +1137,7 @@
     "defaultSkin": "",
     "defaultAnimation": "B_skin",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "ba8fc409-1969-4798-969b-159b0f90e2e4"
     },
@@ -1361,7 +1361,7 @@
     "defaultSkin": "",
     "defaultAnimation": "B_ranking",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "ba8fc409-1969-4798-969b-159b0f90e2e4"
     },
@@ -1585,7 +1585,7 @@
     "defaultSkin": "",
     "defaultAnimation": "box",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "a6ff47f1-5d5d-4e4b-ab71-9f419cba03d8"
     },
@@ -5813,7 +5813,7 @@
     "defaultSkin": "",
     "defaultAnimation": "new_skin",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "6fed144f-4931-41cd-b3bf-56f20290b9ef"
     },
@@ -6821,7 +6821,7 @@
     "defaultSkin": "",
     "defaultAnimation": "new_box",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "6fed144f-4931-41cd-b3bf-56f20290b9ef"
     },
@@ -7850,7 +7850,7 @@
     "defaultSkin": "",
     "defaultAnimation": "new_skin",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "6fed144f-4931-41cd-b3bf-56f20290b9ef"
     },
@@ -7933,7 +7933,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "665d01fa-416b-4e04-8729-744a916d4f99"
     },
@@ -8939,7 +8939,7 @@
     "defaultSkin": "",
     "defaultAnimation": "new_skin",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "6fed144f-4931-41cd-b3bf-56f20290b9ef"
     },
@@ -9022,7 +9022,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "665d01fa-416b-4e04-8729-744a916d4f99"
     },
@@ -9745,7 +9745,7 @@
     "defaultSkin": "",
     "defaultAnimation": "start01",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "dadc7ac4-2806-4491-b512-a690d301e9ce"
     },

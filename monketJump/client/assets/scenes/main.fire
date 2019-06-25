@@ -615,7 +615,7 @@
     "defaultSkin": "",
     "defaultAnimation": "octopus",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "e674f12e-adb7-424b-b944-c90b71b12b08"
     },
@@ -908,7 +908,7 @@
     "defaultSkin": "",
     "defaultAnimation": "00_fish_G1_move",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "665d01fa-416b-4e04-8729-744a916d4f99"
     },
@@ -980,7 +980,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "c119f897-bc5b-40f4-98a7-299b69e4555c"
     },
@@ -1052,7 +1052,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "c119f897-bc5b-40f4-98a7-299b69e4555c"
     },
@@ -1124,7 +1124,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "c119f897-bc5b-40f4-98a7-299b69e4555c"
     },
@@ -1196,7 +1196,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": false,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "c119f897-bc5b-40f4-98a7-299b69e4555c"
     },
@@ -1268,7 +1268,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "c119f897-bc5b-40f4-98a7-299b69e4555c"
     },
@@ -2308,7 +2308,7 @@
     "defaultSkin": "",
     "defaultAnimation": "001_bigfish",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "e5f6fe97-c98f-403d-aa92-4f067cc154e4"
     },
@@ -2380,7 +2380,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": false,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "3e308d8e-ba15-43c4-860b-be62104bb66a"
     },
@@ -2452,7 +2452,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": false,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "e5f6fe97-c98f-403d-aa92-4f067cc154e4"
     },
@@ -2758,7 +2758,7 @@
     "defaultSkin": "",
     "defaultAnimation": "hole",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "f791001c-6b20-4868-9e91-5ecf43aca15d"
     },
@@ -2878,7 +2878,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": false,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": null,
     "_N$timeScale": 1,
     "_N$debugSlots": false,
@@ -4385,7 +4385,7 @@
     "defaultSkin": "",
     "defaultAnimation": "energy",
     "loop": false,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "722f04b0-8b80-4dda-bb1a-42d575ad1137"
     },
@@ -4626,7 +4626,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": false,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "1af24052-b423-42bd-8542-655e40d03442"
     },
@@ -6445,7 +6445,7 @@
     "defaultSkin": "",
     "defaultAnimation": "new_skin",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "6fed144f-4931-41cd-b3bf-56f20290b9ef"
     },
@@ -6517,7 +6517,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "665d01fa-416b-4e04-8729-744a916d4f99"
     },
@@ -8672,7 +8672,7 @@
     "defaultSkin": "",
     "defaultAnimation": "GUIDE_E",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "65683e03-1cf9-4ecc-b9d2-e8f015a02374"
     },
@@ -8885,7 +8885,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "722f04b0-8b80-4dda-bb1a-42d575ad1137"
     },
@@ -9482,7 +9482,7 @@
     "defaultSkin": "",
     "defaultAnimation": "bubble",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "ba8fc409-1969-4798-969b-159b0f90e2e4"
     },
@@ -10735,7 +10735,7 @@
     "defaultSkin": "",
     "defaultAnimation": "again",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "5846b07a-5576-4d3c-8029-7dd1797e6342"
     },
@@ -10931,7 +10931,7 @@
     "defaultSkin": "",
     "defaultAnimation": "invite",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "5846b07a-5576-4d3c-8029-7dd1797e6342"
     },
@@ -12313,7 +12313,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "6fed144f-4931-41cd-b3bf-56f20290b9ef"
     },
@@ -13770,7 +13770,7 @@
     "defaultSkin": "",
     "defaultAnimation": "new_skin",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "6fed144f-4931-41cd-b3bf-56f20290b9ef"
     },
@@ -13842,7 +13842,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "665d01fa-416b-4e04-8729-744a916d4f99"
     },
@@ -14591,7 +14591,7 @@
     "defaultSkin": "",
     "defaultAnimation": "",
     "loop": false,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "c5abcaf7-3f86-474d-a312-069f72fd1f32"
     },

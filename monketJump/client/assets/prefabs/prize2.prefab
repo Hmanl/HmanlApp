@@ -138,7 +138,7 @@
     "defaultSkin": "",
     "defaultAnimation": "new_box",
     "loop": true,
-    "_premultipliedAlpha": false,
+    "premultipliedAlpha": false,
     "_N$skeletonData": {
       "__uuid__": "6fed144f-4931-41cd-b3bf-56f20290b9ef"
     },
